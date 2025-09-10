@@ -37,9 +37,7 @@ DNEY创始人Young同学无私为大家奉献了共有42部的纪录片《一寸
 
 #### 【相关报道】
 
-**[长江日报](http://cjmp.cnhan.com/cjrb/html/2011-04/08/content_4795402.htm
-
-)[楚天都市报](http://ctdsw.cnhubei.com/cnews/newpic/jy/201104/t1663950.shtml)武汉人民广播电台《圆桌时间》** http://www.tudou.com/programs/view/UIaf5tKh4Q8/ http://www.tudou.com/programs/view/0shQaKdDTs8/
+**[长江日报](http://cjmp.cnhan.com/cjrb/html/2011-04/08/content_4795402.htm)[楚天都市报](http://ctdsw.cnhubei.com/cnews/newpic/jy/201104/t1663950.shtml)武汉人民广播电台《圆桌时间》** http://www.tudou.com/programs/view/UIaf5tKh4Q8/ http://www.tudou.com/programs/view/0shQaKdDTs8/
 
 **关于《一寸山河一寸血》请参看** http://baike.baidu.com/view/1809855.htm
 

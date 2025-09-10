@@ -216,9 +216,7 @@ Congress shall make no law respecting an establishment of religion, or prohibiti
 
 迄今为止，我们已经承认下列行为具有表达思想的性质：学生佩戴黑色臂章抗议对越南的军事行动（辛克诉莫恩斯独立社区学校案）；黑人在“白人专用”区域就坐抵制种族隔离的行为（布朗诉路易斯安娜州案）；穿着美军制服进行演出以批评美国对越南的入侵（斯卡特诉美国案）；警戒阻止从事各种活动等（超市雇员诉朗根山谷公司案）。
 
-（判决全文详见：[http://www.calaw.cn/article/default.asp?id=4207](http://rrurl.cn/t0dZ6k)
-
-）
+（判决全文详见：[http://www.calaw.cn/article/default.asp?id=4207](http://rrurl.cn/t0dZ6k)）
 
 该案中一些有趣的观察：
 

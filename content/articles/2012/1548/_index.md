@@ -21,9 +21,7 @@ tags:
 > **文 / 汪海鸣（上海戏剧学院）**
 ![](3660e4d2-8a58-4ed3-9af0-6bd9e8b6ba09.jpg)
 
-（图/[高木妍](http://www.moko.cc/IamMuyan/
-
-)）
+（图/[高木妍](http://www.moko.cc/IamMuyan/)）
 
 如果你有一辆房车，或者一艘船，我就跟你出远门儿
 

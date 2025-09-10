@@ -189,11 +189,9 @@ _The welfare bill approved by parliament last week will not help to clear the de
 
 [![LN02_002](573bb13b-1393-4262-926b-b85c1b678b98.jpg)](/archives/31420/ln02_002)照片摘自蘋果日報
 
-*
+***
 
-* *
-
-[ ](file:///G:/%E5%8C%97%E6%96%97/%E7%AC%AC%E4%BA%8C%E6%AC%A1/H0205%E9%81%93%E5%BE%B7%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%81%8F%E5%B7%AE%E5%92%8C%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1.docx#_ftnref1)
+<!-- file:///G:/%E5%8C%97%E6%96%97/%E7%AC%AC%E4%BA%8C%E6%AC%A1/H0205%E9%81%93%E5%BE%B7%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%81%8F%E5%B7%AE%E5%92%8C%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1.docx#_ftnref1 -->
 
 編者注：
 
@@ -207,4 +205,4 @@ _The welfare bill approved by parliament last week will not help to clear the de
 
 歡迎關注北斗兩岸：[https://www.facebook.com/BeiDouLiangAn](https://www.facebook.com/BeiDouLiangAn)（facebook粉絲頁） [http://www.renren.com/601607819 ](http://www.renren.com/601607819)（人人公共主頁）
 
-採編：Vanessa 責編：余澤霖
+> 採編：Vanessa 責編：余澤霖

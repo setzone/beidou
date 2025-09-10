@@ -60,9 +60,7 @@ The Fourth Estate is a phrase that refers to the profession of Journalism,specif
 
 、僧侣、平民）以外的第四阶级。最初另有所指，如军队及暴民，直至新闻记者获得该项头衔为止**。（fourth estate,a term commonly applied to the public press,It is an extension of the use of “estate ”to signify the three traditional social orders of feudal society-the lords spiritual,lords temporal, and commons-and formerly was applied to other groups.such as the army and the mob,until journalists claimed the title.）
 
-至于新闻记者获得该项头衔则得拜英国历史学家托马斯•卡莱尔（Thomas Carlyle:1795-1881）所赐**。他描述当时的英国国会说：柏克说在国会中有三个阶级；但是，在远处的那个记者席，却坐着比他们更重要的第四阶级。这不是比喻之辞或诙谐的说法：这是一个事实-在现代对我们非常之重要。（Burke said there were Three Estates in Parliament;butin the Reporters’ Gallery yonder,there sat a Fourth Estate more important than they all。
-
-）
+至于新闻记者获得该项头衔则得拜英国历史学家托马斯•卡莱尔（Thomas Carlyle:1795-1881）所赐**。他描述当时的英国国会说：柏克说在国会中有三个阶级；但是，在远处的那个记者席，却坐着比他们更重要的第四阶级。这不是比喻之辞或诙谐的说法：这是一个事实-在现代对我们非常之重要。（Burke said there were Three Estates in Parliament;butin the Reporters’ Gallery yonder,there sat a Fourth Estate more important than they all。）
 
 这段话是媒体被称为第四阶级的出处。因此，**The Fourth Estate用来指新闻行业，尤其指代新闻界。（This is a phrase that refers to the profession of Journalism,specifically the Press.**）
 
