@@ -1,4 +1,4 @@
-module github.com/qundao/ibeidou
+module github.com/qundao/essay-ibeidou
 
 go 1.24.2
 

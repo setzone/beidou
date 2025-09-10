@@ -1,6 +1,6 @@
 # -- Site Configuration --
 # theme = "blowfish"
-baseURL = "https://qundao.github.io/ibeidou/"
+baseURL = "https://qundao.github.io/essay-ibeidou/"
 defaultContentLanguage = "zh-cn"
 disableLanguages = [] #to allow translation work requiring shipping to production
 

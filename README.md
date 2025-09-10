@@ -4,7 +4,7 @@
 
 北斗文集，原刊载于北斗网（`ibeidou.org`）。
 此处文档来自 [ibeidou/ibeidou-articles](https://github.com/ibeidou/ibeidou-articles)，主要收录 2009-2014 年近 3000 篇。
-但整体来看，仓库文档格式较为凌乱芜杂，这里仅做简单处理，使用 Hugo 搭建静态网站便于阅读。
+但整体来看，仓库文档格式较为凌乱芜杂，这里仅做简单处理，使用 `Hugo` + `Blowfish` 主题搭建静态网站便于阅读。
 
 文章内容仅做一家之言，请辩证看待。
 
