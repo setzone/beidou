@@ -346,7 +346,7 @@ Weber, Max: Wirtschaft und Gesellschaft: Grundriß der verstehenden Soziologie. 
 
 [13] 韦伯对资本主义是持有批评态度的，而汉语学界在论及这一问题时，似乎对资本主义缺乏一种审慎的批判态度。例如，韦伯在《新教伦理》的最后写道：“没人知道，将来会是谁在这铁笼（Gehäuse）里生活；没人知道，在这巨大的发展的终点会不会有全新的先知出现；没人知道，会不会有一个古老思想和理念的伟大再生；或者——如果两者都不会——那么会不会在某种骤发的妄自尊大情绪的掩饰下产生一种机械的麻木僵化呢？那么，对这个文化发展的“最后的人”而言，下面的话就要称为现实了：‘专家没有灵魂，享乐者没有心肝：这个废物（Nichts）幻想着它自己达到了人类前所未有的高度。’”但他紧接着就又说：“但这就把我们引人了价值判断和信仰判断的领域，而这篇纯粹讨论历史的文章无须承担这一重任。”见Weber, Max: Gesammelte Aufsätze zur Religionssoziologie I. Tübingen: Mohr, 1988, S. 204.
 
-[14] 详见Max Weber: Der Sinn der „Wertfreiheit“ der soziologischen und ökonomischen Wissenschaft. In: Weber, Max: Gesammelte Aufsätze zur Wissenschaftslehre. Tübingen: Mohr, 1988, S.489-540.
+[14] 详见Max Weber: Der Sinn der „Wertfreiheit“der soziologischen und ökonomischen Wissenschaft. In: Weber, Max: Gesammelte Aufsätze zur Wissenschaftslehre. Tübingen: Mohr, 1988, S.489-540.
 
 [15] Weber, Max: Gesammelte Aufsätze zur Religionssoziologie I. Tübingen: Mohr, 1988, S. 81-82.
 

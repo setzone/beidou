@@ -13,7 +13,7 @@ tags:
 
 <!-- # 第七十七期：The Fourth Estate “第四权利” -->
 
-**编者按：**The Fourth Estate is a phrase that refers to the profession of Journalism, specifically the Press,“ The Fourth Estate”本身与权利或者权力没有任何关系，只是一个简单的新闻媒体的称谓而已。新闻界并不是政府的一部份：它是私人企业。我们似乎不可能认定新闻界是政府的第四部门。新闻自由是一种制度性的权利。
+**编者按：**The Fourth Estate is a phrase that refers to the profession of Journalism, specifically the Press,“The Fourth Estate”本身与权利或者权力没有任何关系，只是一个简单的新闻媒体的称谓而已。新闻界并不是政府的一部份：它是私人企业。我们似乎不可能认定新闻界是政府的第四部门。新闻自由是一种制度性的权利。
 
 ### 词条简介：
 
@@ -66,9 +66,7 @@ The Fourth Estate is a phrase that refers to the profession of Journalism,specif
 
 The Fourth Estate在大陆常被翻译为“第四权利”。但是人们引用的时候，将其误用为“第四权力”，通常与西方三权分立（Seperation of Powers）中的行政、立法、司法（Executive,Legislature,Judiciary）等同。有意思的是，The Fourth Estate在台湾被直接简称为“第四权”。
 
-但是，在美国，当地媒体从不在报纸、电视、公共广播电台把媒体与行政、立法、司法并列为第四权(Fourth Power)。欧美学界从不将其等同！**新闻媒体是一种公司法人形态的组织，任何人都可以投资开设新闻媒体，跟开餐厅或水果店一样，**新闻媒体公司没有人民的授权，又怎能获得与政府权力平起平坐的所谓的第四权力呢？
-
-实际情况就是The Fourth Estate本身与权利或者权力没有任何关系，只是一个简单的新闻媒体的称谓而已。**
+但是，在美国，当地媒体从不在报纸、电视、公共广播电台把媒体与行政、立法、司法并列为第四权(Fourth Power)。欧美学界从不将其等同！**新闻媒体是一种公司法人形态的组织，任何人都可以投资开设新闻媒体，跟开餐厅或水果店一样，**新闻媒体公司没有人民的授权，又怎能获得与政府权力平起平坐的所谓的第四权力呢？实际情况就是The Fourth Estate本身与权利或者权力没有任何关系，只是一个简单的新闻媒体的称谓而已。**
 ![disiquan2](0a79567f-d2f4-4d84-a3d6-be27fae020a6.jpg)
 
 ### 3 The Fourth Branch of Government和新闻自由又是怎么回事？
@@ -81,13 +79,9 @@ The Fourth Estate在大陆常被翻译为“第四权利”。但是人们引用
 
 第三个神话是：许多美国人相信新闻界是美国政府非正式、但非常真实的一部份。也有人认为新闻界是政府滥权的监督者或制衡，是政府的对手。
 
-传播此种神话的书刊汗牛充栋：新闻学院、报社、电台、新闻团体中到处散播这种观念，以致不知美国历史者，**倘初至该国，真以为新闻记者是由人民选举出来，以担负某一项特殊的公共功能**。
+传播此种神话的书刊汗牛充栋：新闻学院、报社、电台、新闻团体中到处散播这种观念，以致不知美国历史者，**倘初至该国，真以为新闻记者是由人民选举出来，以担负某一项特殊的公共功能**。英国人仅不经意地指国会的记者席为第四阶级，而横过大西洋，阶级变成政府部门了。
 
-英国人仅不经意地指国会的记者席为第四阶级，而横过大西洋，阶级变成政府部门了。
-
-可以确定的是：新闻界并不是政府的一部份，它是私人企业。**
-
-或许新闻界自认为是政府的一部份，或政府的制衡，或某一种监督者。美国宪法当然没有赋予他们这种地位，虽然许多人可以在宪法读到这些属于新闻界的责任。
+可以确定的是：新闻界并不是政府的一部份，它是私人企业。**或许新闻界自认为是政府的一部份，或政府的制衡，或某一种监督者。美国宪法当然没有赋予他们这种地位，虽然许多人可以在宪法读到这些属于新闻界的责任。
 
 因此，我们似乎不可能认定新闻界是政府的第四部门。**
 ![disiquan3](de668495-cc53-4be8-9783-4c17c672e081.png)
@@ -100,9 +94,7 @@ The Fourth Estate在大陆常被翻译为“第四权利”。但是人们引用
 
 史都瓦特谈的是**美国宪法对新闻自由的保障（constitutional guarantee of a free press），**他说：**to create a fourth institution outside the government as an additional check on the three official branches（在政府外创立一个第四机构作为三权的另一制衡）。而非说“to create a fourth institution within the government as an additional check on the other three official branches”（在政府内创立一个第四机构用以制衡其他三权）。**
 
-事实上，这篇文章是史都瓦特于一九七四年十一月二日在耶鲁法学院一百五十周年纪念大会中的讲词，文中所一再强调的是，**新闻自由不同于言论自由，新闻界有权利及特权或责任（the rights and privileges,or the responsibilities,of the organized press）。**由此可知，**史都瓦特大法官认定新闻自由是一种权利（right），而非权力（power）。**
-
-新闻自由是一种制度性的权利（institutional right）。**
+事实上，这篇文章是史都瓦特于一九七四年十一月二日在耶鲁法学院一百五十周年纪念大会中的讲词，文中所一再强调的是，**新闻自由不同于言论自由，新闻界有权利及特权或责任（the rights and privileges,or the responsibilities,of the organized press）。**由此可知，**史都瓦特大法官认定新闻自由是一种权利（right），而非权力（power）。**新闻自由是一种制度性的权利（institutional right）。**
 ![disiquan4](631627ad-f1ae-4547-ad0b-6f41089e1aae.jpg)
 
 ### 4 参考资料

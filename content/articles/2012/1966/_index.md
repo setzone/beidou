@@ -120,7 +120,7 @@ Almasy在沙漠里走了三天三夜,他的信念支撑着他克服一切阻力�
 
 我不敢想象忘记全身骨折、奄奄一息的K是抱着怎样的心情在寒冷的洞穴里等待Almasy归来的，但是我永远无法忘记她在自己将死之前写给Almasy的那些话。
 
-“ My darling. I'm waiting for you.
+“My darling. I'm waiting for you.
 
 How long is a day in the dark? Or a week?
 

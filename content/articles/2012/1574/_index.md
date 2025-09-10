@@ -127,9 +127,7 @@ tags:
 
 ### 【深入阅读】
 
-**[http://www.npc.gov.cn/huiyi/lfzt/xsssfxg/2011-08/30/content_1668534.htm](http://www.npc.gov.cn/huiyi/lfzt/xsssfxg/2011-08/30/content_1668534.htm)
-
-刑事诉讼法修正前后对照表[http://finance.qq.com/a/20120312/003633.htm](http://finance.qq.com/a/20120312/003633.htm)
+**[http://www.npc.gov.cn/huiyi/lfzt/xsssfxg/2011-08/30/content_1668534.htm](http://www.npc.gov.cn/huiyi/lfzt/xsssfxg/2011-08/30/content_1668534.htm)刑事诉讼法修正前后对照表[http://finance.qq.com/a/20120312/003633.htm](http://finance.qq.com/a/20120312/003633.htm)
 
 财新网：刑诉法大修：最后的博弈[http://news.sohu.com/20120309/n337163481.shtml](http://news.sohu.com/20120309/n337163481.shtml)
 

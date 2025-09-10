@@ -103,9 +103,7 @@ tags:
 
 其中也许有一个原因，研究中国的学者常常不自觉地相信——中国是极为特殊的。大体上，我不同意这种看法。
 
-**陈志让，《军绅政权：近代中国的军阀时期》
-
-三联书店，1980年；广西师范大学出版社，2008年。
+**陈志让，《军绅政权：近代中国的军阀时期》三联书店，1980年；广西师范大学出版社，2008年。
 
 译自Jerome Ch’en, The Military-Gentry coalition: China under Warlords, University of Toronto-York University, Joint Centre on Modern East Asia, 1979.齐锡生，《中国的军阀政治：1916-1928》，中国人民大学出版社，2010年。
 

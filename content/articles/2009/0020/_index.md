@@ -49,7 +49,6 @@ tags:
 
 注释：
 
-
 - [1] 「上帝掷骰子」这话该理解为「世界没规律」，不应钻牛角尖争辩这话预设上帝存在而没有实证。原文为：The question is not so much whether God plays dice, but how God plays dice. 见：Ian Stewart, Does God Play Dice? The New Mathematics of Chaos. (2nd ed.) London: Penguin Books, 1997, p.xii. 
 - [2] 转引自 James Gleick, Chaos: Making A New Science. London: Vintage, 1998, p.282. 
 - [3] 冯梦龙：《喻世明言．卷十八．杨八老越国奇逢》。 

@@ -2,9 +2,10 @@
 title: <摇光>挺尸症候群
 date: '2012-09-04T14:30:16.000Z'
 authors:
-- 佚名
+- 吴昕悦
 series: []
 tags:
+- Wellesley College
 - 吴昕悦
 - 心理
 - 恐惧

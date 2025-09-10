@@ -50,7 +50,7 @@ tags:
 
 为此动物保护主义者们欢欣鼓舞，奔走相告，并屡屡拿着这一句话向世人展示“高帅富”的高风亮节。**可是事情的真相是什么的？**
 
-让我们重新审视《德国民法典》第90条a款的规定：“ Tiere sind keine Sachen Sie werden durch besondere Gesetze geschutzt. Auf sie fur Sachen geltenden Vorschriften entsprechend anzuwenden, soweit nicht etwas anderes best immt ist”。翻译成中文是：“动物不是物。动物应受特别法律的保护, 除另有规定外, 准用关于物的规定”。
+让我们重新审视《德国民法典》第90条a款的规定：“Tiere sind keine Sachen Sie werden durch besondere Gesetze geschutzt. Auf sie fur Sachen geltenden Vorschriften entsprechend anzuwenden, soweit nicht etwas anderes best immt ist”。翻译成中文是：“动物不是物。动物应受特别法律的保护, 除另有规定外, 准用关于物的规定”。
 
 表述很明确，虽然**规定动物不是民法里的物，但是如果没有特别法的保护**（特别法由于一般法，若两者对同一法律关系都有规定，则优先使用特别法），**动物还将是我们的财产，这一点一点没有改变。**
 

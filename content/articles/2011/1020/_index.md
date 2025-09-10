@@ -117,9 +117,7 @@ tags:
 
 、 [《自由民主的理路》](http://ishare.iask.sina.com.cn/f/11142957.html)6. **王绍光： [《安邦之道》](http://ishare.iask.sina.com.cn/f/6540044.html)7. **毛寿龙：《政治社会学》
 
-（七）国际政治理论1. **拉西特： [《世界政治》](http://ishare.iask.sina.com.cn/f/11621820.html)2. **肯尼斯·W·汤普森： [《国际思想大师》](http://ishare.iask.sina.com.cn/f/8086353.html)
-
-、 [《国际关系中的思想流派》](http://ishare.iask.sina.com.cn/f/12922639.html)**
+（七）国际政治理论1. **拉西特： [《世界政治》](http://ishare.iask.sina.com.cn/f/11621820.html)2. **肯尼斯·W·汤普森： [《国际思想大师》](http://ishare.iask.sina.com.cn/f/8086353.html)、 [《国际关系中的思想流派》](http://ishare.iask.sina.com.cn/f/12922639.html)**
 
 必须得承认，这是一份带有自由主义色彩的书单，缺少对马克思主义、无政府主义以及西方左翼学者著作的专门介绍，虽然在思想史著作中这些均已提及。之所以这么处理，一方面是缘于我的意识形态偏见，另一方面则是考虑到自由主义为我辈读书人之最需要，在我心目中，在型塑未来中国之性格与结构中，自由主义将发挥主导性的作用。
 

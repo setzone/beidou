@@ -36,9 +36,7 @@ tags:
 
 **4、 [《丧家狗》](http://ishare.iask.sina.com.cn/f/13062392.html)**
 
-**5、
-
-《孔子》**
+**5、《孔子》**
 
 [**《孔子传》**](http://ishare.iask.sina.com.cn/f/13062390.html)
 ![](f5acb1db-24e0-4d88-9ed0-c69243452250.jpg)

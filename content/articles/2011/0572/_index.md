@@ -36,9 +36,7 @@ tags:
 
 [**2**、《告别革命》**](http://u.115.com/file/f8f86fe10a)
 
-**[3](http://ishare.iask.sina.com.cn/f/6995094.html)**[、《晚清三部曲》
-
-（1）](http://ishare.iask.sina.com.cn/f/6995094.html)[（2）](http://ishare.iask.sina.com.cn/f/8279941.html)[（3）](http://ishare.iask.sina.com.cn/f/6995139.html)**
+**[3](http://ishare.iask.sina.com.cn/f/6995094.html)**[、《晚清三部曲》（1）](http://ishare.iask.sina.com.cn/f/6995094.html)[（2）](http://ishare.iask.sina.com.cn/f/8279941.html)[（3）](http://ishare.iask.sina.com.cn/f/6995139.html)**
 
 [**4**、《辛亥：摇晃的中国》**](http://ishare.iask.sina.com.cn/f/13419145.html)
 

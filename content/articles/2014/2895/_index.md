@@ -17,7 +17,7 @@ source: http://www.ibeidou.org/posts/5389f19a421aa9400365f0b7
 
 >> “自由主义在社会上从来就是一个暗流，它永远是一个少数派，但这就是它的魅力。这个社会上一定要有这个东西，《北斗》即使死了，自由主义的精神还在。”
 
-https://web.archive.org/web/20151102040814im_/http://ibeidou.qiniudn.com/resources/5389f19a421aa9400365f0b7/cover.jpg
+<!-- http://ibeidou.qiniudn.com/resources/5389f19a421aa9400365f0b7/cover.jpg -->
 
 ---
 

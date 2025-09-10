@@ -38,9 +38,7 @@ Web3.0新兴以来，由微博这一新兴媒介引领的“小时代”已经�
 
 **5、 [《艺林散叶》](http://ishare.iask.sina.com.cn/f/12455235.html)**
 
-**6、
-
-《微语录》**
+**6、《微语录》**
 
 [**《非常道》**](http://ishare.iask.sina.com.cn/f/12455233.html)
 ![](daedee16-dc8d-44ce-8a42-70dba7a9e291.jpg)
