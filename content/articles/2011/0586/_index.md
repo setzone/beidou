@@ -32,22 +32,24 @@ tags:
 
 ### 推荐书籍（点击书目可下载）：
 
-[**1、****《学者的师承与家派》**](http://ishare.iask.sina.com.cn/f/13738505.html)
+[**1、**《学者的师承与家派》**](http://ishare.iask.sina.com.cn/f/13738505.html)
 ![](6aad969d-efa2-41c8-ab19-c460c06223c5.jpg)
 
-[**2、****《犹记风吹水上鳞》**](http://ishare.iask.sina.com.cn/f/7839191.html\)
+[**2、**《犹记风吹水上鳞》**](http://ishare.iask.sina.com.cn/f/7839191.html)
 ![](7794c6ba-5573-4281-ada8-4bddb3af042d.jpg)
 
-**3、****《画坛师友录》**
+**3、**《画坛师友录》**
 ![](2c564460-ae3d-4f81-9b90-2a9f659e12c1.jpg)
 
-[**4、****《比我老的老头》**](http://ishare.iask.sina.com.cn/f/10567078.html)
+[**4、**《比我老的老头》**](http://ishare.iask.sina.com.cn/f/10567078.html)
 ![](81cb332a-dff7-4c5b-8956-4d9b2f959062.jpg)
 
-[**5、****《问学谏往录》**](http://ishare.iask.sina.com.cn/f/7341654.html\)
+[**5、**《问学谏往录》**](http://ishare.iask.sina.com.cn/f/7341654.html)
 ![](e8fa3c42-dd3c-4631-8178-b17701968136.jpg)
 
-[**6****、《负笈北京大学》**](http://ishare.iask.sina.com.cn/f/14140468.html\)
+[**6**、《负笈北京大学》**](http://ishare.iask.sina.com.cn/f/14140468.html)
 ![](8eed426f-45f5-434f-aa33-6bd5b55955fd.jpg)
 
-（编辑：徐毅磊）
+---
+
+> （编辑：徐毅磊）

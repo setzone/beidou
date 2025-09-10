@@ -56,7 +56,9 @@ tags:
 
 ### 推荐书籍（点击蓝色字体书目可下载）：
 
-[《启蒙时代》](http://ishare.iask.sina.com.cn/f/21004994.html\)
+[《启蒙时代》](http://ishare.iask.sina.com.cn/f/21004994.html)
 ![](21f3c01f-07a0-4559-8069-3f6c00fde4a6.jpg)
 
-（采编：黄霄；责编：徐毅磊）
+---
+
+> （采编：黄霄；责编：徐毅磊）

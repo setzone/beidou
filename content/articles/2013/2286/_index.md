@@ -134,8 +134,10 @@ E先生善良而又可爱，但他有一件事弄错了，在宪法中工作，�
 
 深入阅读： 1.姜峰《权利宪法化的隐忧》，[http://www.aisixiang.com/data/56109.html](http://www.aisixiang.com/data/56109.html) 2.夏正林《从基本权利到宪法权利》，[http://www.chinalawedu.com/news/16900/171/2008/9/wy74126301898002560-0.htm](http://www.chinalawedu.com/news/16900/171/2008/9/wy74126301898002560-0.htm) 3.吴卫星《环境权入宪之实证研究》，[http://www.riel.whu.edu.cn/article.asp?id=29643](http://www.riel.whu.edu.cn/article.asp?id=29643) 4.吕忠梅《论公民环境权》，[http://www.law110.com/lawstudy/320177.htm](http://www.law110.com/lawstudy/320177.htm) 5.吕忠梅《再论公民环境权》，[http://www.doc88.com/p-701862364611.html](http://www.doc88.com/p-701862364611.html) 6.马岭《宪法权利与法律权利：区别何在》，[http://www.aisixiang.com/data/55714.html](http://www.aisixiang.com/data/55714.html)
 
-（编辑：陈澜鑫；责编：于轶婷、陈澜鑫）
+---
 
-**P.S.****加入****“****七星说法读者群****”****，我们一起说法！群号：****262980026****。**
+> （编辑：陈澜鑫；责编：于轶婷、陈澜鑫）
+
+**P.S.**加入**“**七星说法读者群**”**，我们一起说法！群号：**262980026**。**
 
 [ ](file:///C:/Users/Administrator/Desktop/E%E5%85%88%E7%94%9F%E7%9A%84%E5%85%A5%E5%AE%AA%E6%A2%A6.doc#_ednref1)

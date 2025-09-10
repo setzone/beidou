@@ -29,7 +29,9 @@ tags:
 与石林认识不少时候了，我们见面和打电话聊得最多的大约都是关于书画古琴和文坛掌故一类的闲事，他给我的印象是身型胖胖的，动作慢慢的，说话时嘴里也好像在品咂着什么，一看就知道是个资深的吃货；但见闻不平之事，他也常作激愤之语，一反往常的憨态。了解他的人又读过他的文的朋友，一定都觉察出了他厚道为人、刻薄为文的本性，这是一个讲究吃喝、敬畏文化、珍视朋友的家伙，更是一个热爱生活、懂得生活、善于生活的观察者和批评者。《尚食志》这样的书，你值得阅读；许石林这样的朋友，你值得拥有。
 ![](a4fa8ed6-8c37-4cda-9821-4017fac14b3f.jpg)
 
-亚马逊购书链接：[舌尖上的文化:尚食志](http://www.amazon.cn/gp/product/B009CRHGPE/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B009CRHGPE&linkCode=as2&tag=ibeidou-23\)
+亚马逊购书链接：[舌尖上的文化:尚食志](http://www.amazon.cn/gp/product/B009CRHGPE/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B009CRHGPE&linkCode=as2&tag=ibeidou-23)
 ![](http://www.assoc-amazon.cn/e/ir?t=ibeidou-23&l=as2&o=28&a=B009CRHGPE)
 
-（采编：李冰心；责编：陈芝）
+---
+
+> （采编：李冰心；责编：陈芝）

@@ -154,4 +154,6 @@ This entry was inspired by Sheryl Sandberg's superb speech at TED
 
 。
 
-（采编：黄理罡；责编：黄理罡）
+---
+
+> （采编：黄理罡；责编：黄理罡）

@@ -62,4 +62,6 @@ I’ve seen what I was and I know what I’ll be.
 I’ve seen it all.
 ![](870d885e-5716-415b-89f7-ccf97890fcd4.jpg)
 
-（采编：董一儒；责编：应鹏华）
+---
+
+> （采编：董一儒；责编：应鹏华）

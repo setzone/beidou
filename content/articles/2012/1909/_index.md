@@ -43,4 +43,6 @@ tags:
 
 [http://www.douban.com/note/221962564/](http://www.douban.com/note/221962564/)
 
-（采编：杨成；责编：何凌昊）
+---
+
+> （采编：杨成；责编：何凌昊）

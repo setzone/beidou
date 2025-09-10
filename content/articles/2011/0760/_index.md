@@ -37,7 +37,7 @@ tags:
 [**1、《西游记深度解析》**](http://ishare.iask.sina.com.cn/f/15719556.html)
 ![](1f00b57b-270f-4502-bba1-bda22269d3a7.jpg)
 
-[**2、《蜀汉最后的守护者》**](http://ishare.iask.sina.com.cn/f/15719557.html\)
+[**2、《蜀汉最后的守护者》**](http://ishare.iask.sina.com.cn/f/15719557.html)
 ![](eef34e49-13d8-4b3b-94c9-55b8a1efac35.jpg)
 
 （责编：徐毅磊）

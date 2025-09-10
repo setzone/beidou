@@ -62,4 +62,6 @@ tags:
 
 源地址：[http://www.douban.com/note/131413847/](http://www.douban.com/note/131413847/)
 
-（采编：佛冉；责编：黄理罡）
+---
+
+> （采编：佛冉；责编：黄理罡）

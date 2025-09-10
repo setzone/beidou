@@ -73,4 +73,6 @@ tags:
 
 原文地址：[http://blog.renren.com/blog/320039220/713258231](http://blog.renren.com/blog/320039220/713258231)
 
-（编辑：项栋梁）
+---
+
+> （编辑：项栋梁）

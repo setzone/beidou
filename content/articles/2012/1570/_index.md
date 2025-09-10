@@ -65,4 +65,6 @@ a. Upon the death of a Head of State or Head of Government of a Member State, th
 编者注：作者为南开中学毕业生，文中“南开”均指南开中学
 ![](6b1eb0aa-c4f7-41cd-9def-de773a92aaef.jpg)
 
-（采编：于灵歌；责编：麦静）
+---
+
+> （采编：于灵歌；责编：麦静）

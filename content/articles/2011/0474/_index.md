@@ -24,21 +24,14 @@ tags:
 
 ### 推荐书籍（点击书目可下载）：
 
-**1、**[**《****说来话儿长****》**](http://ishare.iask.sina.com.cn/f/12779424.html )
+1. [《说来话儿长》](http://ishare.iask.sina.com.cn/f/12779424.html )
+2. 《言言斋性学札记》
+3. [《云雨：性张力下的中国人》]( http://ishare.iask.sina.com.cn/f/12780342.html)
+4. [《我行我素：男根文化史》](http://ishare.iask.sina.com.cn/f/12779422.html)
+5. [《孤独的性》](http://ishare.iask.sina.com.cn/f/12782689.html)
+6. [《中国古代房内考——中国古代的性与社会》](http://ishare.iask.sina.com.cn/f/12779421.html)
 
-**[ ](http://ishare.iask.sina.com.cn/f/12779424.html)**
-
-**2、****《****言言斋性学札记****》**
-
-**3、**[**《****云雨：性张力下的中国人****》**]( http://ishare.iask.sina.com.cn/f/12780342.html)
-
-**4、**[**《****我行我素：男根文化史****》**](http://ishare.iask.sina.com.cn/f/12779422.html)
-
-**5、**[**《****孤独的性****》**](http://ishare.iask.sina.com.cn/f/12782689.html)
-
-**6****、[《](http://ishare.iask.sina.com.cn/f/12779421.html)****[中国古代房内考——中国古代的性与社会**》**](http://ishare.iask.sina.com.cn/f/12779421.html)**
-
- **[《说来话儿长》](http://ishare.iask.sina.com.cn/f/12779424.html)**
+**[《说来话儿长》](http://ishare.iask.sina.com.cn/f/12779424.html)**
 
 ** ![](b3493dfe-6485-4843-86b7-cad76a249317.jpg)**
 

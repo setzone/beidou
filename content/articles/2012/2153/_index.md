@@ -43,4 +43,6 @@ tags:
 
 原文链接：[http://blog.renren.com/blog/255191867/884601634?bfrom=011201092#nogo ](http://blog.renren.com/blog/255191867/884601634?bfrom=011201092#nogo )
 
-（采编：刘铮；责编：刘铮）
+---
+
+> （采编：刘铮；责编：刘铮）

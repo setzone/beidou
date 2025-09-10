@@ -40,4 +40,6 @@ tags:
 
 （由汕头春潮刊社供稿，原文刊于其“潮汕精神”栏目：[http://www.tsuntie.com/archives/27](http://www.tsuntie.com/archives/27)）
 
-（采编自投稿邮箱；责编：麦静）
+---
+
+> （采编自投稿邮箱；责编：麦静）

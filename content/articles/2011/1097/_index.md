@@ -76,4 +76,6 @@ tags:
 
 [viii] Trial of Matthew Lyon, in F. Wharton, State Trials 333 (1849).
 
-（采编：尹桑；责编：陈轩）
+---
+
+> （采编：尹桑；责编：陈轩）

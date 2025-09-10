@@ -44,4 +44,6 @@ tags:
 
 PS：该日志地址为：http://blog.renren.com/share/297652015/10853080603?from=0101010202&ref=hotnewsfeed&sfet=102&fin=0&ff_id=297652015
 
-（采编：佛冉；责编：黄理罡）
+---
+
+> （采编：佛冉；责编：黄理罡）

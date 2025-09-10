@@ -95,7 +95,9 @@ Coda
 
 [原文](http://www.douban.com/group/topic/45590843)
 
-（采编：余澤霖；责编：陈澜鑫）
+---
+
+> （采编：余澤霖；责编：陈澜鑫）
 
 [【懸著的旗】No politics today？](/archives/44106)——在張懸演唱會舉國旗事件中，她對說「No politics today」的女孩說，這只是一面旗子，不是政治。那麼，「讓藝術歸藝術」的情境是否真的存在？
 

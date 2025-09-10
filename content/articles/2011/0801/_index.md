@@ -29,22 +29,22 @@ tags:
 
 ### 推荐书籍（点击蓝色字体书目可下载）：
 
-[**1、《中国古代文字狱》**](http://ishare.iask.sina.com.cn/f/11976284.html\)
+[**1、《中国古代文字狱》**](http://ishare.iask.sina.com.cn/f/11976284.html)
 ![](9f1dab7c-143c-46be-8c36-c56ad9349ed1.jpg)
 
-[**2、《笔祸史谈丛》**](http://ishare.iask.sina.com.cn/f/8814326.html\)
+[**2、《笔祸史谈丛》**](http://ishare.iask.sina.com.cn/f/8814326.html)
 ![](bdd3cb64-a8eb-40df-af86-846e118f32a0.jpg)
 
-[**3、《清代文字狱档》**](http://ishare.iask.sina.com.cn/f/10496977.html\)
+[**3、《清代文字狱档》**](http://ishare.iask.sina.com.cn/f/10496977.html)
 ![](fcaa4d4f-411d-4d8a-a8f0-c230e29ae7b2.jpg)
 
-[**4、《致命文字》**](http://ishare.iask.sina.com.cn/f/8831292.html\)
+[**4、《致命文字》**](http://ishare.iask.sina.com.cn/f/8831292.html)
 ![](be374621-6559-4dcc-827c-707ba4d08b59.jpg)
 
 **5、《祸由笔墨生》**
 ![](f94ed57f-8f07-4168-8a11-44e41a8108c8.jpg)
 
-[**6、《中国禁书简史》**](http://ishare.iask.sina.com.cn/f/12420849.html\)
+[**6、《中国禁书简史》**](http://ishare.iask.sina.com.cn/f/12420849.html)
 ![](60b78360-1194-4609-a03b-bb151cfa6bcf.jpg)
 
 **7、《欧洲书报检查制度的兴衰》**

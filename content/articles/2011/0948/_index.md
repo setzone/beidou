@@ -24,7 +24,7 @@ tags:
 
 # ——写在7·23事故之后
 
-****
+---
 
 ## 文/ [罗桀](http://blog.renren.com/GetEntry.do?id=742698556&owner=254917406)（重庆大学）
 

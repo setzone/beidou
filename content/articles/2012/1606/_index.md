@@ -195,4 +195,6 @@ Cast a cold eye, 投出冷眼。 on life ,on death, 看生，看死。 horseman,
 
 就这样了。
 
-（采编：黄美琳；责编：麦静）
+---
+
+> （采编：黄美琳；责编：麦静）

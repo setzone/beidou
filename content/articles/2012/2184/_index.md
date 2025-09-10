@@ -75,4 +75,6 @@ tags: []
 
 作者主页[http://www.douban.com/people/goodnightXX/](http://www.douban.com/people/goodnightXX/)
 
-（采编：佛冉，责编：佛冉）
+---
+
+> （采编：佛冉，责编：佛冉）

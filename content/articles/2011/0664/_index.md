@@ -65,7 +65,9 @@ ibeidou.org 宗族靠得住吗？我有很深的疑问。对于一个社会理�
 
 本期天玑一共有三位作者，但都来自同一个博客 [“靠点儿谱”](http://kaoputive.org/)。 ibeidou.org ibeidou.org
 
-（采编：吴志伟；责编：刘一舟）
+---
+
+> （采编：吴志伟；责编：刘一舟）
 
 ibeidou.org
 

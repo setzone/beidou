@@ -79,4 +79,6 @@ tags:
 
 ⑤框架理论详见[http://baike.baidu.com/view/1883721.htm](http://baike.baidu.com/view/1883721.htm)
 
-（编辑：管思聪）
+---
+
+> （编辑：管思聪）

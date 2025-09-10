@@ -90,4 +90,6 @@ http://www.21ccom.net/plus/view.php?aid=52356 邵建：微博管理，“胡适�
 
 http://int.nfdaily.cn/content/2012-01/19/content_36711818.htm 网络实名制的全球先行者，韩国为什么失败了？
 
-（编辑：石味诗，纳兰辰瀚）
+---
+
+> （编辑：石味诗，纳兰辰瀚）

@@ -112,7 +112,9 @@ tags:
 
 [公众参与的时代标本——厦门PX事件的过程分析与模式归纳，田飞龙](http://rrurl.cn/7P91pD) [抗争中的环境信息应该及时公开——评厦门PX项目与城市总体规划环评](http://rrurl.cn/nigGmQ) [关于环境影响评价制度的一些思考——从厦门PX项目说起](http://rrurl.cn/k3RBrR) [汕头海门事件](http://rrurl.cn/mgs1mB) [云南怒江水电建设规划与项目争议案](http://rrurl.cn/1xE6bT) [叫停港珠澳大桥不是香港老太太强悍](http://rrurl.cn/06Ifai) [《规划环评条例》带来了什么?](http://rrurl.cn/izAIjx) [关于《规划环境影响评价条例》在山西省实施情况的调查与思考](http://rrurl.cn/7SIK0R)
 
-（编辑：马特，陈蓉）
+---
+
+> （编辑：马特，陈蓉）
 
 #### 来自[北斗网](http://rrurl.cn/vNE0s4)旗下连接七星百科栏目
 

@@ -87,6 +87,8 @@ ibeidou.org 四周是参天的高楼广厦，低矮的总统府默默躲在现�
 
 本文来自：http://fancci.com/archives/2142/comment-page-1#comment-157 歡迎訪問：Fancci.com，為了莊嚴華麗的中國 ibeidou.org ibeidou.org
 
-（采编：麦静；责编：黄理罡）
+---
+
+> （采编：麦静；责编：黄理罡）
 
 ibeidou.org ibeidou.org

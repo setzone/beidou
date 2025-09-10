@@ -44,4 +44,6 @@ tags:
 
 原文链接：财新网博客 [http://yuexiaodao.blog.caixin.com/archives/46853](http://yuexiaodao.blog.caixin.com/archives/46853)
 
-（采编：彭程；责编：马特）
+---
+
+> （采编：彭程；责编：马特）

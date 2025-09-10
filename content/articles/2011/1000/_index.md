@@ -89,4 +89,6 @@ tags:
 
 **本文链接地址: [从知道的少的快乐到知道得多的快乐，是要付出时间和代价的](http://moonick.net/2011/07/the-happiness-of-knowing-nothing-and-everything/)**
 
-（采编：陈锴；责编：陈锴）
+---
+
+> （采编：陈锴；责编：陈锴）

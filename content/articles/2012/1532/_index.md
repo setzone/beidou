@@ -56,4 +56,6 @@ tags:
 
 原文链接：[http://www.douban.com/note/191820279/](http://www.douban.com/note/191820279/)
 
-（采编：宋晓慧；责编：黄理罡）
+---
+
+> （采编：宋晓慧；责编：黄理罡）

@@ -44,4 +44,6 @@ tags:
 
 原文链接：[http://www.douban.com/note/217874353/](http://www.douban.com/note/217874353/)
 
-（采编：佛冉，责编：佛冉）
+---
+
+> （采编：佛冉，责编：佛冉）

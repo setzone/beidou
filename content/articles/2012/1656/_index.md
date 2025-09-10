@@ -39,9 +39,11 @@ tags:
 
 本文原地址：[http://book.douban.com/review/5381354/](http://book.douban.com/review/5381354/)
 
-**（推荐书籍：点击蓝色字体书目可在线浏览）******
+**（推荐书籍：点击蓝色字体书目可在线浏览）**
 
 **[《虚拟的历史》](http://data.book.163.com/book/home/009200250011/000BNeDW.html?touping)**
 ![](61cc5f1a-cf92-49a8-9e86-ec8a842ff13b.jpg)
 
-（采编：李冰心；责编：徐毅磊）
+---
+
+> （采编：李冰心；责编：徐毅磊）

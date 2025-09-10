@@ -89,4 +89,6 @@ tags:
 
 原文链接：[http://www.douban.com/note/149001988/](http://www.douban.com/note/149001988/)
 
-（采编：佛冉；责编：陈锴）
+---
+
+> （采编：佛冉；责编：陈锴）

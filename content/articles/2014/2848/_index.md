@@ -80,7 +80,9 @@ Ithink真人图书馆
 
 ###【活动链接】
 
-[新浪微博@ Ithink真人图书馆](http://http://weibo.com/2792504224/ABG59abWV "新浪微博@ Ithink真人图书馆"\)
+[新浪微博@ Ithink真人图书馆](http://http://weibo.com/2792504224/ABG59abWV "新浪微博@ Ithink真人图书馆")
 ![阳春三月，带本“图书”去踏青](logo.jpg)
 
-（采编：万晓华；责编：万晓华）
+---
+
+> （采编：万晓华；责编：万晓华）

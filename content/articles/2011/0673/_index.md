@@ -36,6 +36,8 @@ ibeidou.org 总之，针对“该不该吃狗肉”的争论，实在既无必�
 
 言者无罪，闻者足戒。 ibeidou.org ibeidou.org
 
-（采编：安镜轩；责编：陈轩）
+---
+
+> （采编：安镜轩；责编：陈轩）
 
 ibeidou.org ibeidou.org

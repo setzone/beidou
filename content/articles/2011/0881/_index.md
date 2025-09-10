@@ -47,15 +47,15 @@ tags:
 
 **推荐书籍（点击蓝色字体书目可下载）：**
 
-**1、****《[博尔赫斯小说卷全集](http://u.115.com/file/bh5iy7mi)》**
+**1、**《[博尔赫斯小说卷全集](http://u.115.com/file/bh5iy7mi)》**
 
-****![](c0805bff-f3d2-4020-b68e-d0c0f3db9ed3.jpg)****
+**![](c0805bff-f3d2-4020-b68e-d0c0f3db9ed3.jpg)**
 
-**2、****《[看不见的城市](http://ishare.iask.sina.com.cn/f/12217409.html)》**
+**2、**《[看不见的城市](http://ishare.iask.sina.com.cn/f/12217409.html)》**
 
-**[ ](ddd8fc04-eaab-4e62-9476-b470f7e2c759.jpg)**![](a8a62cfb-b991-4e7e-80de-5a82f4c48190.jpg)****
+**[ ](ddd8fc04-eaab-4e62-9476-b470f7e2c759.jpg)**![](a8a62cfb-b991-4e7e-80de-5a82f4c48190.jpg)**
 
-**3****、《[寒冬夜行人](http://ishare.iask.sina.com.cn/f/4673278.html)》**
+**3**、《[寒冬夜行人](http://ishare.iask.sina.com.cn/f/4673278.html)》**
 
 **![](e57fd223-aa9c-4b41-b3fd-b236ed59a4fc.jpg)**
 

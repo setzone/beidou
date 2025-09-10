@@ -131,4 +131,6 @@ Morality is a sensibility.
 
 原文链接：[http://blog.renren.com/blog/240147823/769026490](http://blog.renren.com/blog/240147823/769026490)
 
-（采编：管思聪；责编：管思聪）
+---
+
+> （采编：管思聪；责编：管思聪）

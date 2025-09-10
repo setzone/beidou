@@ -153,4 +153,6 @@ tags:
 
 《搜狐网》[http://roll.sohu.com/20111226/n330275106.shtml](http://roll.sohu.com/20111226/n330275106.shtml)
 
-（编辑：陈蓉，余学文）
+---
+
+> （编辑：陈蓉，余学文）

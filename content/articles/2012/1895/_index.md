@@ -61,4 +61,6 @@ tags:
 
 文章来源：[http://www.douban.com/note/193030951/](http://www.douban.com/note/193030951/)
 
-（采编：宋晓慧；责编：佛冉）
+---
+
+> （采编：宋晓慧；责编：佛冉）

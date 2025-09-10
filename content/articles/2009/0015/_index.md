@@ -2,7 +2,7 @@
 title: <第三十一期·玉衡>我为什么还不出柜
 date: '2009-03-06T14:22:31.000Z'
 authors:
-- 佚名
+- 北京michael
 series: []
 tags:
 - 同性恋

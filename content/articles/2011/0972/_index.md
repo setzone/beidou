@@ -31,19 +31,19 @@ tags:
 
 ### 推荐书籍（点击蓝色字体书目可下载）：
 
-[**1、《战略游戏》**](http://ishare.iask.sina.com.cn/f/9743298.html\)
+[**1、《战略游戏》**](http://ishare.iask.sina.com.cn/f/9743298.html)
 ![](/legacy/2011/08/%E6%88%98%E7%95%A5%E6%B8%B8%E6%88%8F.jpg)
 
-[**2、《黑天鹅》**](http://ishare.iask.sina.com.cn/f/10104417.html\)
+[**2、《黑天鹅》**](http://ishare.iask.sina.com.cn/f/10104417.html)
 ![](/legacy/2011/08/%E9%BB%91%E5%A4%A9%E9%B5%9D.jpg)
 
-[**3、《随机致富的傻瓜》**](http://ishare.iask.sina.com.cn/f/8164184.html\)
+[**3、《随机致富的傻瓜》**](http://ishare.iask.sina.com.cn/f/8164184.html)
 ![](/legacy/2011/08/%E9%9A%8F%E6%9C%BA%E8%87%B4%E5%AF%8C%E7%9A%84%E5%82%BB%E7%93%9C.jpg)
 
-[**4、《怪诞行为学》**](http://ishare.iask.sina.com.cn/f/17342657.html\)
+[**4、《怪诞行为学》**](http://ishare.iask.sina.com.cn/f/17342657.html)
 ![](2b40a2eb-79ed-4b81-8a11-508b1621b07f.jpg)
 
-[**5、《常识》**](http://ishare.iask.sina.com.cn/f/8225617.html\)
+[**5、《常识》**](http://ishare.iask.sina.com.cn/f/8225617.html)
 ![](/legacy/2011/08/%E5%B8%B8%E8%AF%86.jpg)
 
 **（采编：余岚；责编：徐毅磊）**

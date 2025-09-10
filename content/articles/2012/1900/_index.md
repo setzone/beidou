@@ -255,6 +255,8 @@ tags:
 
 相关摄影作品链接：[http://zhan.renren.com/picworm?gid=3674946092066764923&from=reblogSynFeed&ref=share](http://zhan.renren.com/picworm?gid=3674946092066764923&from=reblogSynFeed&ref=share)
 
-（编辑：张苏樊
+---
+
+> （编辑：张苏樊
 
 王凌羽；责编：张正）

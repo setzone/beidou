@@ -861,4 +861,6 @@ Mitsuteru Yokoyama .... special thanks 横山光辉：铁人28号、六神合体
 
 Katsuhiro Ôtomo .... very special thanks 大友克洋：阿基拉
 
-（采编：莫桂兰；责编：佛冉）
+---
+
+> （采编：莫桂兰；责编：佛冉）

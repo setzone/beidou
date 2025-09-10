@@ -40,7 +40,9 @@ tags:
 
 ###【活动链接】
 
-http://[www.douban.com/event/21066054/](http://www.douban.com/event/21066054/ "碧山公共空间"\)
+http://[www.douban.com/event/21066054/](http://www.douban.com/event/21066054/ "碧山公共空间")
 ![小川绅介奖导演吴耀东新作《舞台》“台湾视线”厦门巡映](碧山.jpg)
 
-（采编：杨添淇；责编：万晓华）
+---
+
+> （采编：杨添淇；责编：万晓华）

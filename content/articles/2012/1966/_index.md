@@ -147,4 +147,6 @@ We're the real countries, not the boundaries drawn on maps with the names of pow
 
 战争与爱情的创痍总需要时间来弥补，那些混杂着希望和绝望的故事，许多人喜欢称之为史诗。
 
-（采编：安镜轩；责编：安镜轩）
+---
+
+> （采编：安镜轩；责编：安镜轩）

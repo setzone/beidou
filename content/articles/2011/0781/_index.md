@@ -13,7 +13,7 @@ tags:
 
 <!-- # ＜北斗荐书＞本期主题：启蒙世纪的漫漫长路 -->
 
-<!-- # **本期主题：****启蒙世纪的漫漫长路** -->
+<!-- # **本期主题：**启蒙世纪的漫漫长路** -->
 
 ## 荐书人/ 李兰希（Boston University）
 
@@ -35,7 +35,7 @@ tags:
 
 **[启蒙书单压缩包](http://ishare.iask.sina.com.cn/f/15881729.html)**
 
-**1****、关于“启蒙”的含义——"What is Enlightenment?"**
+**1**、关于“启蒙”的含义——"What is Enlightenment?"**
 
 _1__）Ernst Cassirer恩斯特·卡西尔，德国“新康德主义”哲学家_
 
@@ -67,7 +67,7 @@ _8__）Immanuel Kant 康德, “Answer to the Question: What is Enlightenment?�
 
 （《什么是启蒙》）_
 
-**2****、启蒙运动萌芽的社会背景——17世纪晚期的欧洲政治社会格局**
+**2**、启蒙运动萌芽的社会背景——17世纪晚期的欧洲政治社会格局**
 
 _1__）Dorinda Outram,“The Enlightenment”, （《启蒙运动》）28-46_
 
@@ -81,7 +81,7 @@ _4__）Frederick the Great 腓德烈大帝，“Benevolent Despotism”
 
 （《开明专制》）_
 
-**1688****光荣革命的启示：英国新教徒对于法国枫丹白露赦令的大反击**
+**1688**光荣革命的启示：英国新教徒对于法国枫丹白露赦令的大反击**
 
 _1__）Louis XIV 路易十四, “Revocation of the Edict of Nantes”
 
@@ -91,7 +91,7 @@ _3__）Locke 洛克, Second Treatise of Civil Government (《政府论》）_
 
 _Letter Concerning Toleration __（《论宽容》）_
 
-**3****、启蒙时代对宗教宽容的诉求与各种兴起的“异端”思潮**
+**3**、启蒙时代对宗教宽容的诉求与各种兴起的“异端”思潮**
 
 _1__）Outram, The Enlightenment （《启蒙运动》） 109-125 2）Daniel Defoe 丹尼尔笛福, 《鲁滨逊漂流记》 3）牛顿, Letter to Richard Bentley （《给Bentley的信》）_
 
@@ -153,7 +153,7 @@ _重点词汇:"Enthusiasm”
 
 “Equality，”“Fatherland,” 3)Treatise on Tolerance in Candide and Other Writings_
 
-**4****、公共生活转型与公共领域崛起科学界的形成与自然科学兴起**
+**4**、公共生活转型与公共领域崛起科学界的形成与自然科学兴起**
 
 _1)Outram, The Enlightenment (__《启蒙运动》）93-108 2)伏尔泰, Philosophical Letters （《哲学通信》）_
 
@@ -195,7 +195,7 @@ _1__）Lessing莱辛, “Ernst and Falk: Dialogues for Freemasons”
 
 _2__）Margaret Jacob, Living the Enlightenment: Freemasonry and Politics in Eighteenth-Century Europe （《生活在启蒙时代：18世纪欧洲共济会与政治》）_
 
-**5****、狄德罗与《百科全书》的启蒙理念（The Encyclopédie)**
+**5**、狄德罗与《百科全书》的启蒙理念（The Encyclopédie)**
 
 _1)D__’Alembert 达朗贝尔, “Reflections on the Present State of the Republic of Letters,”_
 
@@ -235,7 +235,7 @@ _2__）“Rameau's Nephew”
 
 （《拉摩的侄儿》）_
 
-**6****、苏格兰启蒙运动曼德维尔与哈奇森的世纪之争：苏格兰道德哲学奠基**
+**6**、苏格兰启蒙运动曼德维尔与哈奇森的世纪之争：苏格兰道德哲学奠基**
 
 _1__）Bernard Mandeville 曼德维尔, Fable of the Bees （《蜜蜂的寓言》）_
 
@@ -261,7 +261,7 @@ _1__）Montesquieu 孟德斯鸠, Spirit of the Laws （《论法的精神》）_
 
 _2__）Adam Ferguson 亚当福格森, An Essay on the History of Civil Society （《论文明社会史》）_
 
-**7****、启蒙运动局限性：殖民地探索、奴隶制与女性解放启蒙时代的航海探索与殖民文化**
+**7**、启蒙运动局限性：殖民地探索、奴隶制与女性解放启蒙时代的航海探索与殖民文化**
 
 _1__）Outram, The Enlightenment （《启蒙运动》）47-59 2）Abbé Raynal, The Philosophical and Political History of the Settlements and Trade of the Europeans in the East and West Indies_
 
@@ -305,7 +305,7 @@ _6__）Condorcet 马奎斯孔多塞, “On the Admission of Women to the Rights 
 
 _7__）Olympe de Gouges 奥兰普·德古热, The Rights of Women (《女性与女性公民权宣言》）_
 
-**8****、1780年的欧洲：启蒙思潮成果及其影响启蒙在德国：莱辛与门德尔松的宗教理念**
+**8**、1780年的欧洲：启蒙思潮成果及其影响启蒙在德国：莱辛与门德尔松的宗教理念**
 
 _1__）Mendelssohn 门德尔松, Letter to J. C. Lavater_
 

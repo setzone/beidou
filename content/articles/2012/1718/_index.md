@@ -72,4 +72,6 @@ tags:
 
 本文原地址：[http://book.douban.com/review/5415663/](http://book.douban.com/review/5415663/)
 
-（采编：李冰心，责编：徐毅磊）
+---
+
+> （采编：李冰心，责编：徐毅磊）

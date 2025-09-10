@@ -92,4 +92,6 @@ http://www.starscn.org/index.php/brief-introduction/
 http://www.starscn.org/index.php/category/read-promote/
 ![满天星](logo.jpg)
 
-（采编：杨添淇；责编：万晓华）
+---
+
+> （采编：杨添淇；责编：万晓华）

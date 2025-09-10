@@ -132,4 +132,6 @@ tags:
 
 网友斥狠心](http://rrurl.cn/bSUig3@351188.htm) [“小候鸟”被父母用铁链锁在家里照顾弟弟](http://rrurl.cn/v60nk5) [青岛13岁女孩跳楼自杀续:当天曾给笔友写信 ](http://blog.renren.com/http:/365jia.cn/news/2012-07-12/A1ABB61F20EF245D.html) [2008年《中华人民共和国未成年人保护法》实施情况报告](http://rrurl.cn/uOBHbT) [别让孩子在家暴的阴影下成长](http://blog.renren.com/http:/zqb.cyol.com/html/2011-03/24/nw.D110000zgqnb_20110324_2-11.htm)
 
-（编辑：于轶婷，陈蓉）
+---
+
+> （编辑：于轶婷，陈蓉）

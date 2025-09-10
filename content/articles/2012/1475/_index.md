@@ -88,4 +88,6 @@ http://d.g.wanfangdata.com.cn/Thesis_Y1071275.aspx 从国际法视角看中日�
 
 http://wenku.baidu.com/view/23d1dee881c758f5f61f6702.html 联合国海洋法公约 http://baike.baidu.com/view/44777.htm 开罗宣言 http://baike.baidu.com/view/110251.htm 波茨坦宣言
 
-（编辑：苏扬，纳兰辰瀚）
+---
+
+> （编辑：苏扬，纳兰辰瀚）

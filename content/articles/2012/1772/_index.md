@@ -149,4 +149,6 @@ tags:
 
 附：王意扬原名王胜寒，前者仅仅是她选用的一个名字。另，下面是其“反讽吐槽视频”中的一个。 [http://v.youku.com/v_show/id_XMzQ0NDc4Mzcy.html](http://v.youku.com/v_show/id_XMzQ0NDc4Mzcy.html)
 
-（编辑：张苏樊，责编：张正，朱腾越）
+---
+
+> （编辑：张苏樊，责编：张正，朱腾越）

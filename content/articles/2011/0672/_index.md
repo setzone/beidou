@@ -268,6 +268,8 @@ ibeidou.org 这便是自由的缝隙。
 
  ibeidou.org ibeidou.org
 
-（采编：管思聪；责编：管思聪）
+---
+
+> （采编：管思聪；责编：管思聪）
 
 ibeidou.org ibeidou.org

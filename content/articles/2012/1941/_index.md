@@ -41,7 +41,7 @@ tags:
 
 倾听着银河里的车水马龙。
 
-——By[孙萌](http://www.renren.com/profile.do?id=223182750\)
+——By[孙萌](http://www.renren.com/profile.do?id=223182750)
 ![](7941e305-6f9d-4f2c-93ca-b7221d53dfef.png)
 
 一日就是一天，夜里我们得分开。
@@ -98,7 +98,7 @@ tags:
 
 旧事多年不曾闻，如今闻来堪惊。江山隔断万千情，年华荏苒去，枯萎作残尘。
 
-——By[匡振瑶Janemer·G](http://www.renren.com/profile.do?id=334245874\)
+——By[匡振瑶Janemer·G](http://www.renren.com/profile.do?id=334245874)
 ![](823e7b67-5f9f-4c01-ac52-fd0070104221.png)
 
 **遣悲怀**
@@ -374,11 +374,13 @@ tags:
 
 翻译：君貌月中佳人，吾心纯白无暇。七月莲花相伴，此爱更复何求
 
-——By[刘源](http://www.renren.com/profile.do?id=233752608\)
+——By[刘源](http://www.renren.com/profile.do?id=233752608)
 ![](05f5b148-3abe-43ad-9c65-a60f34be1426.png)
 
 **Sonnet II** Let darkness nights sent me blackest eyes, I wish to use them, looking for the bright, With dumpish but touching and soft sighs. If world is still worth take a look, it might, Thy warmest shadow rush away from the landscape, As sunshine sunk with haze upon the cliff. Destiny traps me before I escape, Though thy flame lit my journey much triff; My sick rose has already withered, Rose’s roots will be green for long, as you know; Orbit of mine shall be interrupted, As ugly wound shall cover by snow. While cruelty came to thou; and can’t help fright, Thy hands are only thing which I tried hold tight.
 
 ——By [葉鎏澐](http://www.renren.com/profile.do?id=307686761)
 
-（编辑：白告；责编：白告）
+---
+
+> （编辑：白告；责编：白告）

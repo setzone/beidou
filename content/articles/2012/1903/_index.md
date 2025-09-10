@@ -47,4 +47,6 @@ tags:
 
 源地址： [http://www.douban.com/note/228428779/](http://www.douban.com/note/228428779/)
 
-（采编：杨成；责编：何凌昊、马特）
+---
+
+> （采编：杨成；责编：何凌昊、马特）

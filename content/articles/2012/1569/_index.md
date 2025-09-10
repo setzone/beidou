@@ -87,4 +87,6 @@ Beneath this mask there is more than flesh. Beneath this mask there is an idea, 
 **安兰德、杨小凯或是北斗摘星星的孩子也好，乔布斯、中国天使或是青年创业者也罢，在每个盖伊·福克斯面具之下，有的不仅是那鲜活的血肉，还有着一颗跳动不止的心, and ideas are bulletproof.**
 ![](76f24d53-290a-4472-ae8c-0ea4f1a73414.jpg)
 
-（采编：麦静；责编：麦静）
+---
+
+> （采编：麦静；责编：麦静）

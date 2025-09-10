@@ -310,4 +310,6 @@ Congress shall make no law respecting an establishment of religion, or prohibiti
 
 （5）著名的第一修正案法院案件 [Notable First Amendment Court Cases](http://rrurl.cn/f1oJon)
 
-（编辑：张金晶，尹航；；责编：张正，董宸）
+---
+
+> （编辑：张金晶，尹航；；责编：张正，董宸）

@@ -61,4 +61,6 @@ Huffington Post专栏作者史蒂芬·克兰德（Steven Kurlander）认为，�
 
 源地址：[http://www.zhengtan.me/?p=1980](http://www.zhengtan.me/?p=1980)）
 
-（采编：彭程；责编：马特、佛冉）
+---
+
+> （采编：彭程；责编：马特、佛冉）

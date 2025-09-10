@@ -50,9 +50,11 @@ tags:
 
 #### 推荐书籍（点击蓝色字体书目可在线阅读）：
 
-[《落脚城市》](http://book.ifeng.com/lianzai/detail_2012_03/20/13323825_0.shtml\)
+[《落脚城市》](http://book.ifeng.com/lianzai/detail_2012_03/20/13323825_0.shtml)
 ![](d5a9911e-82ed-4de2-ad89-830689c825c1.jpg)
 
 本文原地址：[http://book.douban.com/review/5419807/](http://book.douban.com/review/5419807/)
 
-（采编：李冰心；责编：徐毅磊）
+---
+
+> （采编：李冰心；责编：徐毅磊）

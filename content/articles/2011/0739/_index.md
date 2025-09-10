@@ -25,7 +25,7 @@ tags:
 
 ### 推荐书籍（点击蓝色字体书目可下载）：
 
-[**1、《长物志》**](http://ishare.iask.sina.com.cn/f/9544355.html\)
+[**1、《长物志》**](http://ishare.iask.sina.com.cn/f/9544355.html)
 ![](d5e42f9a-b272-4df7-a5f2-df56ca172cf9.jpg)
 
 **2、《用心学泡茶》**
@@ -43,7 +43,7 @@ tags:
 **6、《中国历代闲章集萃》**
 ![](e2f3ce15-7e41-4680-93ad-a7def69f7567.jpg)
 
-[**7、《时光词场》**](http://ishare.iask.sina.com.cn/f/15514560.html\)
+[**7、《时光词场》**](http://ishare.iask.sina.com.cn/f/15514560.html)
 ![](45bafe58-13f6-4436-8519-ca66da3ad752.jpg)
 
 （采稿：徐毅磊；责编：徐毅磊）

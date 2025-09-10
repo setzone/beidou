@@ -59,4 +59,6 @@ tags:
 
 **本文版权属于王小心 [http://www.wangxiaoxin.net](http://www.wangxiaoxin.net)，转载请注明。**
 
-（采编：黄理罡；责编：黄理罡）
+---
+
+> （采编：黄理罡；责编：黄理罡）

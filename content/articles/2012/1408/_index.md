@@ -14,7 +14,7 @@ tags:
 
 <!-- # ＜七星微语•一周状态撷萃＞第三十六期：蒙牛奶问题不断，泄露门常谈常新 -->
 
-**瓢虫君：各位读者，小瓢虫这厢有礼了。七星微语第三十六期来了！如果你也想在七星微语中看到你喜欢的状态，请在人人网****@****瓢虫君！在此每条状态前标注的作者名仅仅表示瓢虫君能看到的转发的最源头，大多是该状态的原创作者，但并不排除是其转发的可能呦。**
+**瓢虫君：各位读者，小瓢虫这厢有礼了。七星微语第三十六期来了！如果你也想在七星微语中看到你喜欢的状态，请在人人网**@**瓢虫君！在此每条状态前标注的作者名仅仅表示瓢虫君能看到的转发的最源头，大多是该状态的原创作者，但并不排除是其转发的可能呦。**
 
 # ＜七星微语•一周状态撷萃＞
 
@@ -30,8 +30,8 @@ tags:
 
 [董浩亮](http://www.renren.com/profile.do?id=231532425): 纵使你用了ppnn13%dkstFeb.1st这样的密码又怎样，碰到傻逼网站照样泄露 [朱楠](http://www.renren.com/profile.do?id=135007352): 这密码是“娉娉袅袅十三余，豆蔻梢头二月初”。。。。我了个去。。。。。。。 [慕容嗷嗷](http://www.renren.com/profile.do?id=235259438): 幸亏不是所有的牛奶，都叫特仑苏。 [三生机缘](http://www.renren.com/profile.do?id=357724786): 其实今天晚上与其跨年复习，不如给你的老师和助教发一封邮件，祝他们元旦快乐。 [微小说](http://www.renren.com/profile.do?id=600916099): 突发新闻：专家：2012大毁灭事实上不会发生，因为明年将会是2011S。![大笑](http://a.xnimg.cn/imgpro/icons/statusface/16.gif?ver=1) [卜实](http://www.renren.com/profile.do?id=318864183) :我觉得你们这些信春哥的真的很没意思，春哥只是个凡人，他并不是万能的，信他也绝对不会不挂科，更不会得永生，不过就是个小歌手而已，有本事他现在冲过来抓住我的头用脸滚键dadhfaihdeioqepwoif[pasjfansvga-aq=weoferpjgva hdiufqh2 3902hdafiewr 38hafsldk [闷骚青年](http://www.renren.com/profile.do?id=600992999): 明年才考试，今年就开始复习了。。。
 
-是不是要被自己感动的跪了。。。![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif\)
-![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif\)
+是不是要被自己感动的跪了。。。![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
+![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
 ![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif) [西政经济法学生会](http://www.renren.com/profile.do?id=600834661): 10.9.8.7.6.5...1起床！东风一号跟踪正常，遥测信号正常，手机闹钟提示正常，内衣穿着正常，外套穿着正常，棉被展开正常，现在主体与床板分离，主体与床板分离…擦！失败了…
 
 #### 【杂烩】
@@ -72,7 +72,7 @@ tags:
 
 哈~让我们来一起接受瓢虫大家庭给大家的新年祝福吧~~
 
-在这里小编也希望大家新的一年里****开开心心、****
+在这里小编也希望大家新的一年里**开开心心、**
 
 学业有成、阖家幸福
 
@@ -96,4 +96,6 @@ tags:
 
 =？祝福你！【2012】 [旺杰](http://www.renren.com/profile.do?id=221042681): 无论实现与否，2012年愿我们都能免于匮乏的自由和恐惧的自由，即便正义和良善都瘸腿跟在我们后面，都要努力做个好人。再见潦草的2011。 [黄毛](http://www.renren.com/profile.do?id=400691735): 2012年，祝福各位老湿开心、幸福、健康。吃嘛嘛香，做嘛嘛顺，嘛嘛棒哈！ [徐建辉](http://www.renren.com/profile.do?id=363752208): 2012都来了，我却还没有真正回报过那些对我好的亲人们! [李维群](http://www.renren.com/profile.do?id=346805803): 冬风是寒冷的，祝福是温暖的；短信是简短的，情意是长久的；月圆是短暂的，月光是皎洁的；新年到来之际，愿冬风里送达的短信承载着我纯粹的祝福为你带来快乐。 [周遠遊](http://www.renren.com/profile.do?id=294087843): 愿各位在那个可能是末日审判的年份里，仙福永享，寿与天齐，神通广大，法力无边
 
-（编辑：李～子）
+---
+
+> （编辑：李～子）

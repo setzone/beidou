@@ -69,7 +69,7 @@ tags:
 
 如果你还在问那努力和努力有什么不一样！！！
 
-你难道没注意到人家努力的背后都有一个曾经比他们更努力的爹（妈）或爷爷（奶奶）吗！！![](http://s.xnimg.cn//imgpro/icons/statusface/surprise.gif\)
+你难道没注意到人家努力的背后都有一个曾经比他们更努力的爹（妈）或爷爷（奶奶）吗！！![](http://s.xnimg.cn//imgpro/icons/statusface/surprise.gif)
 ![](http://s.xnimg.cn//imgpro/icons/statusface/surprise.gif)（我为这句话的委婉感动得快要哭了。![](http://s.xnimg.cn//imgpro/icons/statusface/cry.gif)）
 
 再讲一个故事：
@@ -96,4 +96,6 @@ tags:
 
 世界原上本没有深沉，话总说一半，就
 
-（采编：佛冉，责编：佛冉）
+---
+
+> （采编：佛冉，责编：佛冉）

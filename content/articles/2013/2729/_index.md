@@ -65,7 +65,9 @@ So in everything, do to others what you would have them do to you.
 
 Let who have ears listen.
 
-（采编：刘迎；责编：刘迎）
+---
+
+> （采编：刘迎；责编：刘迎）
 
 [【诺奖之思】今夜无眠](/archives/43094)——学生时代究竟应该把主要精力放在哪里？怎样才能不辜负我们所拥有的这一切？在一个不眠之夜，作者写下这份答案——抛弃浮躁，踏踏实实，扛起肩上那份责任，无悔地做自己。
 

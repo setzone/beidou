@@ -102,4 +102,6 @@ If you fail , is not important . You need to try .
 
 作者是根据这字幕时间轴基础上自制的野生字幕】
 
-（采编：陈方青；责编：王冬阳）
+---
+
+> （采编：陈方青；责编：王冬阳）

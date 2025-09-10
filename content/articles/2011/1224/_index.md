@@ -12,7 +12,7 @@ tags:
 
 <!-- # ＜北斗荐书＞本期主题：神来笔笔华严时 -->
 
-<!-- # **本期主题：神来笔笔华严时****** -->
+<!-- # **本期主题：神来笔笔华严时** -->
 
 ## 荐书人 / 谷卿（暨南大学）
 
@@ -26,33 +26,33 @@ tags:
 
 **推荐书籍（点击蓝色字体书目可下载）**
 
-[**1****、《中国诗画语言研究》**](http://ishare.iask.sina.com.cn/f/19488742.html)
+[**1**、《中国诗画语言研究》**](http://ishare.iask.sina.com.cn/f/19488742.html)
 
 **![](53904c90-bd59-4cfe-94a5-b3f40334625c.jpg)
 
 **
 
-[**2****、《有声画与无声诗》**](http://ishare.iask.sina.com.cn/f/6643435.html)
+[**2**、《有声画与无声诗》**](http://ishare.iask.sina.com.cn/f/6643435.html)
 
 ** ![](21c5a762-7de2-4f67-889e-4659ab427d6c.jpg)**
 
-[**3****、《美学散步》**](http://ishare.iask.sina.com.cn/f/17845942.html)
+[**3**、《美学散步》**](http://ishare.iask.sina.com.cn/f/17845942.html)
 
 **![](6cdd9171-f899-42dc-a5ac-ef0c5a28636f.jpg)
 
 **
 
-[**4****、《文字禅与宋代诗学》**](http://ishare.iask.sina.com.cn/f/20120103.html)
+[**4**、《文字禅与宋代诗学》**](http://ishare.iask.sina.com.cn/f/20120103.html)
 
 **![](631052a9-c882-4e17-8da1-d5247d9b74c5.jpg)
 
 **
 
-[**5****、《澄心论萃》**](http://ishare.iask.sina.com.cn/f/20200393.html)
+[**5**、《澄心论萃》**](http://ishare.iask.sina.com.cn/f/20200393.html)
 
 ** ![](dfe3908c-fd8f-4c68-91a4-8af231e2c313.jpg)**
 
-**6****、《中国审美命题研究》**
+**6**、《中国审美命题研究》**
 ![](620a046c-b7fe-4caf-86e0-7cffc90dd178.jpg)
 
 （采稿：徐毅磊；责编：徐毅磊）

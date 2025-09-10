@@ -74,4 +74,6 @@ tags:
 
 原文链接：[http://www.douban.com/note/261188056/](http://www.douban.com/note/261188056/)
 
-（采编：黄梅林，责编：佛冉）
+---
+
+> （采编：黄梅林，责编：佛冉）

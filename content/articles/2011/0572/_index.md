@@ -29,21 +29,21 @@ tags:
 
 革命呵，多少罪恶假汝罪名以行！
 
-**推荐书籍（点击书目可下载）：******
+**推荐书籍（点击书目可下载）：**
 
-[**1、****《历史的进退》**](http://ishare.iask.sina.com.cn/f/7840449.html)
+[**1、**《历史的进退》**](http://ishare.iask.sina.com.cn/f/7840449.html)
 
-[**2****、《告别革命》**](http://u.115.com/file/f8f86fe10a)
+[**2**、《告别革命》**](http://u.115.com/file/f8f86fe10a)
 
-**[3](http://ishare.iask.sina.com.cn/f/6995094.html)****[、《晚清三部曲》
+**[3](http://ishare.iask.sina.com.cn/f/6995094.html)**[、《晚清三部曲》
 
 （1）](http://ishare.iask.sina.com.cn/f/6995094.html)[（2）](http://ishare.iask.sina.com.cn/f/8279941.html)[（3）](http://ishare.iask.sina.com.cn/f/6995139.html)**
 
-[**4****、《辛亥：摇晃的中国》**](http://ishare.iask.sina.com.cn/f/13419145.html)
+[**4**、《辛亥：摇晃的中国》**](http://ishare.iask.sina.com.cn/f/13419145.html)
 
-[**5****、《军绅政权》**](http://ishare.iask.sina.com.cn/f/7703319.html)
+[**5**、《军绅政权》**](http://ishare.iask.sina.com.cn/f/7703319.html)
 
-[**6****、《找寻真实的蒋介石》**](http://ishare.iask.sina.com.cn/f/6892812.html)
+[**6**、《找寻真实的蒋介石》**](http://ishare.iask.sina.com.cn/f/6892812.html)
 
 **《历史的进退》**
 ![](b5edea76-6baa-4d8a-9afe-9dcf43b22fb7.jpg)

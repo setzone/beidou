@@ -140,4 +140,6 @@ tags:
 
 （附原文视频《胡德夫-美麗島MV》链接：[http://www.tudou.com/programs/view/0igy0QY5LSY/](http://www.tudou.com/programs/view/0igy0QY5LSY/)）
 
-（采编：麦静；责编：麦静）
+---
+
+> （采编：麦静；责编：麦静）

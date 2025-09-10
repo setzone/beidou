@@ -76,4 +76,6 @@ tags:
 
 @选举观察[ http://weibo.com/chinaelection]( http://weibo.com/chinaelection)
 
-（采编：黄理罡；责编：黄理罡）
+---
+
+> （采编：黄理罡；责编：黄理罡）

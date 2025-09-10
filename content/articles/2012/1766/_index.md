@@ -13,7 +13,7 @@ tags:
 
 <!-- # ＜七星微语•一周状态撷萃＞第四十六期：人工智能的反义词是天然呆 -->
 
-**瓢虫君：各位读者，小瓢虫这厢有礼了。七星微语第四十六期来了！如果你也想在七星微语中看到你喜欢的状态，请在人人网****@****瓢虫君！在此每条状态前标注的作者名仅仅表示瓢虫君能看到的转发的最源头，大多是该状态的原创作者，但并不排除是其转发的可能呦。**
+**瓢虫君：各位读者，小瓢虫这厢有礼了。七星微语第四十六期来了！如果你也想在七星微语中看到你喜欢的状态，请在人人网**@**瓢虫君！在此每条状态前标注的作者名仅仅表示瓢虫君能看到的转发的最源头，大多是该状态的原创作者，但并不排除是其转发的可能呦。**
 
 # ＜七星微语•一周状态撷萃＞
 
@@ -32,14 +32,14 @@ tags:
 
 **[陈楚桐](http://rrurl.cn/qRN0tk)**: 前一阵子关注朝鲜发射弹道导弹而忽略了印度拒绝加入《核不扩散条约》，那些抨击朝鲜不顾人民死活而穷兵黩武的人，现在回作何感想？发展军备，世界上除了独领风骚的美国以外，任何一个国家都是为了将来不会陷入只能挨打而毫无还手之力的境地，而非穷兵黩武。只有军事实力和科技水平以及经济实力占压倒性优势时，武力才是解决问题的好方法。朝鲜已经加入核不扩散条约，而印度拒绝加入。等等，应该没有姑娘能看到这儿了吧。那说个正事儿，你们谁那种子多啊，给我发点儿，宿舍同学有需求了。在线等，挺急的。
 
-**[贾诩](http://rrurl.cn/gQU1ox)**: 看到一个人安装陌陌和微信的理由是，上厕所忘带纸了可以用的上！![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif\)
-![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif\)
-![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif\)
-![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif\)
-![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif\)
-![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif\)
-![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif\)
-![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif\)
+**[贾诩](http://rrurl.cn/gQU1ox)**: 看到一个人安装陌陌和微信的理由是，上厕所忘带纸了可以用的上！![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
+![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
+![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
+![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
+![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
+![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
+![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
+![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
 ![膜拜](http://a.xnimg.cn/imgpro/icons/statusface/guibai.gif)
 
 #### 【恶搞吐槽】“微语是个好栏目”
@@ -113,4 +113,6 @@ tags:
 
 **[王洵](http://rrurl.cn/h0Ys1i)**: 小时候刮奖刮出一个谢字还不扔，非要把谢谢惠顾四个字都刮的干干净净才舍得放手，和后来太多的事一模一样。
 
-（编辑：EliNagy）
+---
+
+> （编辑：EliNagy）

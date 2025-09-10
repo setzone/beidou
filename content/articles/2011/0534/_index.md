@@ -78,4 +78,6 @@ tags:
 
 附本书网购地址 [http://product.dangdang.com/product.aspx?product_id=21022067&ref=search-1-pub](http://product.dangdang.com/product.aspx?product_id=21022067&ref=search-1-pub)
 
-（编辑：项栋梁）
+---
+
+> （编辑：项栋梁）

@@ -121,4 +121,6 @@ tags:
 
 天涯评论：[http://club.kdnet.net/dispbbs.asp?id=7679272&boardid=1&page=1&1=1#7679272](http://club.kdnet.net/dispbbs.asp?id=7679272&boardid=1&page=1&1=1#7679272)
 
-（编辑：王晓瞳，纳兰辰瀚）
+---
+
+> （编辑：王晓瞳，纳兰辰瀚）

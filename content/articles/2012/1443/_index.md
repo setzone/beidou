@@ -139,4 +139,6 @@ http://www.chinacourt.org/html/article/200803/07/290708.shtml中国法院网
 
 http://news.sohu.com/20111227/n330336034.shtml 搜狐网 www.chinalawedu.com/new/23341a0a2011/20111230caoxin102634.shtml法律教育网 http://news.xinhuanet.com/local/2011-12/29/c_122502365.htm新华网 http://tech.sina.com.cn/i/2011-12-29/04016577726.shtml 中国青年报
 
-（编辑：陈蓉，纳兰辰瀚）
+---
+
+> （编辑：陈蓉，纳兰辰瀚）

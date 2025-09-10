@@ -38,7 +38,7 @@ tags:
 
 ### 推荐书籍（点击蓝色字体书目可下载）：
 
-[**《失窃的孩子》**](http://ishare.iask.sina.com.cn/f/9347706.html\)
+[**《失窃的孩子》**](http://ishare.iask.sina.com.cn/f/9347706.html)
 ![](02143360-4d6b-46ad-aed1-b1f4d6b3649a.jpg)
 
 （采稿：徐毅磊；责编：徐毅磊）

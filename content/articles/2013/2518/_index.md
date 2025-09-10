@@ -258,7 +258,9 @@ tags:
 
 这是关于阿楠，我知道的所有的事情。
 
-（采编：陈静，王卜玄；责编：刘铮）
+---
+
+> （采编：陈静，王卜玄；责编：刘铮）
 
 原文链接：[http://blog.renren.com/GetEntry.do?id=908876637&owner=251486011](http://blog.renren.com/GetEntry.do?id=908876637&owner=251486011)
 

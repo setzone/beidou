@@ -60,6 +60,8 @@ ibeidou.org
 
 ibeidou.org ibeidou.org
 
-（采编：陈锴；责编：陈锴）
+---
+
+> （采编：陈锴；责编：陈锴）
 
 ibeidou.org ibeidou.org

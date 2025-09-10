@@ -69,4 +69,6 @@ tags:
 
 原文：[http://www.douban.com/note/248743287/](http://www.douban.com/note/248743287/)
 
-（采编：佛冉；责编：佛冉）
+---
+
+> （采编：佛冉；责编：佛冉）

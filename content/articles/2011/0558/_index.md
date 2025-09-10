@@ -45,29 +45,29 @@ tags:
 
 **推荐书籍（点击书目可下载）：**
 
-[**1、****《四喜忧国》**](http://ishare.iask.sina.com.cn/f/10909221.html\)
+[**1、**《四喜忧国》**](http://ishare.iask.sina.com.cn/f/10909221.html)
 ![](6100e292-3ebe-4888-8c39-58e86f0cb0c1.jpg)
 
-[**2****、《离魂》**](http://ishare.iask.sina.com.cn/f/13715666.html\)
+[**2**、《离魂》**](http://ishare.iask.sina.com.cn/f/13715666.html)
 ![](ef3729b7-ab8d-4b68-b6de-e05ef3b50e85.jpg)
 
-[**3****、《城邦暴力团》（上、下）**](http://ishare.iask.sina.com.cn/f/13461210.html\)
+[**3**、《城邦暴力团》（上、下）**](http://ishare.iask.sina.com.cn/f/13461210.html)
 ![](15c62832-934a-419c-abf7-71a1352dfbde.jpg)
 
-**4****、《春灯公子》**
+**4**、《春灯公子》**
 ![](a04c7067-14e3-4682-ac6b-3d68e12e7de6.jpg)
 
-[**5****、《欢喜贼》**](http://ishare.iask.sina.com.cn/f/13176808.html)
+[**5**、《欢喜贼》**](http://ishare.iask.sina.com.cn/f/13176808.html)
 
 ** ![](1494a2fa-c242-4b81-9457-147d0a2c004c.jpg)**
 
-[**6****、《公寓导游》**](http://ishare.iask.sina.com.cn/f/9334893.html\)
+[**6**、《公寓导游》**](http://ishare.iask.sina.com.cn/f/9334893.html)
 ![](aaa2278b-15a9-494c-a2b8-6a9d06194d2f.jpg)
 
-[**7****、《我妹妹》**](http://ishare.iask.sina.com.cn/f/9743748.html)
+[**7**、《我妹妹》**](http://ishare.iask.sina.com.cn/f/9743748.html)
 ![](01b9a75a-9eb3-48b0-9722-4a667765b9da.jpg)
 
-**8****、《战夏阳》**
+**8**、《战夏阳》**
 ![](e4dd6529-a964-440c-8ebe-9e2e172b7c61.jpg)
 
 附：
@@ -76,4 +76,6 @@ tags:
 
 北斗泛珠三角处女饭醉影像 [http://blog.sina.com.cn/s/blog_4e4ec1da0100qe5b.html](http://blog.sina.com.cn/s/blog_4e4ec1da0100qe5b.html)
 
-（编辑：徐毅磊）
+---
+
+> （编辑：徐毅磊）

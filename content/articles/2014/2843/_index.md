@@ -68,4 +68,6 @@ tags:
 http://page.renren.com/601261629/channel-noteshow-923433405
 ![马勇老师谈二十世纪革命](Logo.jpg)
 
-（采编：万晓华；责编：万晓华）
+---
+
+> （采编：万晓华；责编：万晓华）

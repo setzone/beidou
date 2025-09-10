@@ -129,4 +129,6 @@ wuheng.me@gmail.com weibo.com/iwuheng renren.com/iwuheng 吴忄亘 2012.3.5
 
 （本文完）
 
-（采编：楼杭丹；责编：应鹏华）
+---
+
+> （采编：楼杭丹；责编：应鹏华）

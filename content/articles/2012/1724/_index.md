@@ -229,4 +229,6 @@ On a dark desert highway, cool wind in my hair 在漆黑荒凉的高速公路上
 
 （全文完）
 
-（采编自投稿邮箱；责编：麦静）
+---
+
+> （采编自投稿邮箱；责编：麦静）

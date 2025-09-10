@@ -170,7 +170,7 @@ tags:
 
 #### 推荐书目：
 
-[**奥尔森《集体行动的逻辑》** ](http://ishare.iask.sina.com.cn/f/16491424.html?from=like&retcode=0\)
+[**奥尔森《集体行动的逻辑》** ](http://ishare.iask.sina.com.cn/f/16491424.html?from=like&retcode=0)
 ![](a69b4e3f-36c1-4c03-8894-ab8bf6d73659.jpg)
 
 **[奥尔森《国家兴衰探源》](http://ishare.iask.sina.com.cn/f/23127454.html)**
@@ -179,4 +179,6 @@ tags:
 **[奥尔森《权力与繁荣》](http://ishare.iask.sina.com.cn/f/33404143.html)**
 ![](2a3ba04a-ffef-493c-a3ff-ea9468c5121d.jpg)
 
-（采编：陈芝；责编：陈芝）
+---
+
+> （采编：陈芝；责编：陈芝）

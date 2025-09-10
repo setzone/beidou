@@ -146,4 +146,6 @@ Cape Diem, 活在眼前，活在当下。人生本就简单得可以一眼望底
 
 博客：[http://blog.sina.com.cn/mejiaqian](http://blog.sina.com.cn/mejiaqian)
 
-（采编：何凌昊；责编：尹桑）
+---
+
+> （采编：何凌昊；责编：尹桑）

@@ -28,10 +28,10 @@ tags:
 
 ### 推荐书籍（点击蓝色字体书目可下载）：
 
-[**1、《大学之理念》**](http://u.115.com/file/aq3pbx8s\)
+[**1、《大学之理念》**](http://u.115.com/file/aq3pbx8s)
 ![](3eaee5b2-3a17-4712-a300-428e7163ae79.jpg)
 
-[**2、《大学的使命》**](http://ishare.iask.sina.com.cn/f/11169674.html\)
+[**2、《大学的使命》**](http://ishare.iask.sina.com.cn/f/11169674.html)
 ![](fd7f67be-2a7f-4e0d-8580-c0b6f3e01e78.jpg)
 
 **3、《哈佛的证明》**
@@ -40,7 +40,7 @@ tags:
 **4、《学术的秩序》**
 ![](79bd91cc-b64f-47b4-adbe-24f9f8eecc7a.jpg)
 
-[**5、《教育的目的》**](http://ishare.iask.sina.com.cn/f/9199042.html\)
+[**5、《教育的目的》**](http://ishare.iask.sina.com.cn/f/9199042.html)
 ![](074104d7-1633-4346-9ec8-664865286c88.jpg)
 
 **6、《创造未来》**

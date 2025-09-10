@@ -116,4 +116,6 @@ tags:
 
 《论动物福利立法的限度及其定位——兼谈动物福利立法中动物的法律地位》——杨朝霞 http://zh.wikipedia.org/zh/%E5%8B%95%E7%89%A9%E6%AC%8A%E5%88%A9 维基百科——动物权利 http://www.legaldaily.com.cn/index_article/content/2011-01/05/content_2428217.htm?node=5955 反虐待动物立法引热议 http://www.chinanews.com/gn/2012/02-24/3694667.shtml 北京晨报：活熊取胆呼唤反虐待动物立法 http://www.qhnews.com/newscenter/system/2012/04/26/010753848.shtml 别以保护动物的名义破坏法治
 
-（编辑：王晓瞳，纳兰辰瀚）
+---
+
+> （编辑：王晓瞳，纳兰辰瀚）

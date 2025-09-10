@@ -102,4 +102,6 @@ tags:
 
 用乔布斯的一句话结尾吧，The people who are crazy enough to think they can change the world are the ones who do. 现在的问题是，到底还剩下多少敢这么去想的年轻人。
 
-（采编：张希；责编：黄理罡）
+---
+
+> （采编：张希；责编：黄理罡）

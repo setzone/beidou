@@ -117,4 +117,6 @@ tags:
 
 视频——齐奥塞斯库倒台的七日革命：http://www.tudou.com/programs/view/PIDKOCt_fd8/
 
-（采编：管思聪；责编：管思聪）
+---
+
+> （采编：管思聪；责编：管思聪）

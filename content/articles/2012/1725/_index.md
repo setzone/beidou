@@ -223,4 +223,6 @@ Kristen juden unde heiden 耶犹共回民 jehent daz diz ir erbe sî
 
 其十二 Gaudens in domino 拉丁祝词，用韵aabb Gaudens in domino 欢呼上主 in hoc solemnio 于此仪祝 Letetur omnium 天下信徒 turba fidelium. 神圣幸福 Himnis et organis 颂之歌之 ad laudem presulis 称之赞之 Cuius miracula 大能奇迹 colit ecciesia. 教会有意 Qui ab infantia 自始此生 divina gratia 满心圣恩 Servivit domino 服侍上帝 devoto animo. 全身全意 Et tu progredere 亦汝观在 o lector incipe 速速前来 In primo carmine 展尔初音 die iube domine. 悦主圣灵
 
-（采编：麦静；责编：麦静）
+---
+
+> （采编：麦静；责编：麦静）

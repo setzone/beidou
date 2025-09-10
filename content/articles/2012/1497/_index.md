@@ -44,4 +44,6 @@ tags:
 
 稿件出处：[http://www.douban.com/note/133024357/](http://www.douban.com/note/133024357/)
 
-（采编：宋晓慧；责编：黄理罡）
+---
+
+> （采编：宋晓慧；责编：黄理罡）

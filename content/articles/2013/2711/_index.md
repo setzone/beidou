@@ -93,7 +93,9 @@ tags:
 
 在后一个梦想中看到前一个梦想实现了，挺好玩。
 
-（采编：刘迎；责编：刘迎）
+---
+
+> （采编：刘迎；责编：刘迎）
 
 原文发表在[http://phunter.lofter.com/post/5e7bb_96d65b](http://phunter.lofter.com/post/5e7bb_96d65b)
 

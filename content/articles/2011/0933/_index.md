@@ -39,19 +39,19 @@ tags:
 
 **推荐书籍（点击蓝色字体书目可下载）：**
 
-1、[《枕草子》 ](http://ishare.iask.sina.com.cn/f/15099422.html\)
+1、[《枕草子》 ](http://ishare.iask.sina.com.cn/f/15099422.html)
 ![](5e0e669b-8b11-46ba-9500-d00be96283a9.jpg)
 
-2、[《源氏物语》 ](http://ishare.iask.sina.com.cn/f/15423162.html\)
+2、[《源氏物语》 ](http://ishare.iask.sina.com.cn/f/15423162.html)
 ![](b9b4da59-133e-4890-a4c6-3ddc593304f8.jpg)
 
 3、《王朝女性日记》
 ![](0206633a-da3a-4ec3-ad05-399275d67201.jpg)
 
-4、[《古今和歌集》](http://u.115.com/file/clg5oyj8\)
+4、[《古今和歌集》](http://u.115.com/file/clg5oyj8)
 ![](235ea17c-9b64-4887-8cef-6f71398a6b35.jpg)
 
-5、[《今昔物语》](http://ishare.iask.sina.com.cn/f/8884797.html\)
+5、[《今昔物语》](http://ishare.iask.sina.com.cn/f/8884797.html)
 ![](da69d053-0a88-4809-8bd8-80c25c307567.jpg)
 
 （采稿：佛冉；责编：徐毅磊）

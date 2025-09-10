@@ -184,7 +184,7 @@ tags:
 
 _
 
-_（原文授權自張鐵志，本文出自作者新書《**時代正在改變：民主、市場與文化想像》，**已於2013年一月在大陸出版）
+_（原文授權自張鐵志，本文出自作者新書《時代正在改變：民主、市場與文化想像》，**已於2013年一月在大陸出版）
 
 歡迎關注北斗兩岸：[https://www.facebook.com/BeiDouLiangAn](https://www.facebook.com/BeiDouLiangAn)（facebook粉絲頁） [http://www.renren.com/601607819 ](http://www.renren.com/601607819)（人人公共主頁）
 

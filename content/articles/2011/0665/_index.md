@@ -262,6 +262,8 @@ ibeidou.org ibeidou.org 再过几天，恰逢2011年复活节的那日，清华�
 
 然而我们责无旁贷，我们要和清华人一起走在这条崎岖的路上。 ibeidou.org ibeidou.org
 
-（采编：陈锴；责编：陈锴）
+---
+
+> （采编：陈锴；责编：陈锴）
 
 ibeidou.org ibeidou.org

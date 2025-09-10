@@ -65,7 +65,9 @@ freerice.com是一个有名的非营利性网站。这个网站有趣的地方�
 
 友情推荐：
 
-拓词链接：[http://towords.com/](http://towords.com/\)
+拓词链接：[http://towords.com/](http://towords.com/)
 ![](b1e0f73e-345e-4f13-a347-d752e10fbda4.jpg)
 
-（采编：薄然；责编：应鹏华）
+---
+
+> （采编：薄然；责编：应鹏华）

@@ -74,7 +74,9 @@ ibeidou.org
 
 ibeidou.org
 
-（采编：徐毅磊；责编：徐毅磊）
+---
+
+> （采编：徐毅磊；责编：徐毅磊）
 
 ibeidou.org
 

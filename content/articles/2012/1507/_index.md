@@ -245,4 +245,6 @@ tags:
 
 文章来源：[http://www.douban.com/note/192973518/](http://www.douban.com/note/192973518/)
 
-（采编：宋晓慧；责编：黄理罡）
+---
+
+> （采编：宋晓慧；责编：黄理罡）

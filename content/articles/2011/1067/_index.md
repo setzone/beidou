@@ -30,7 +30,7 @@ tags:
 (陸軍軍人)：鹿児島県南大隅郡田代村（現・肝属郡錦江町）出身。野田佳彦：父は富山県婦負郡野積村（現在の富山市八尾町水口）の出身。——from 日文维基百科。两人真的有祖孙关系么？
 
 【吐槽】 [赵奇](http://www.renren.com/profile.do?id=247055956): 有一天奥特曼去学校上课，课上老师提问，奥特曼一举手，老师就死了。。。 [张劢](http://www.renren.com/profile.do?id=35571049): 生物老师上课两大忌：一忌画胚芽鞘，二忌画气孔。。
-![](http://fmn.rrfmn.com/fmn048/20110903/1825/p_large_ovoe_7ca80000d7ba5c72.jpg\)
+![](http://fmn.rrfmn.com/fmn048/20110903/1825/p_large_ovoe_7ca80000d7ba5c72.jpg)
 ![](http://fmn.rrimg.com/fmn055/20110903/1825/p_large_qFLd_3643000103a45c43.jpg)
 
 [柏晓楠](http://www.renren.com/profile.do?id=256428786): 拉登还活着的时候，阿森纳就从来没被这么欺负过！ [陈光霁♥ManUtd ](http://www.renren.com/profile.do?id=285224311): 阿森纳上一次被灌八球，还要追溯到光绪二十二年，即1896年 [胡仅](http://www.renren.com/profile.do?id=274029302): 刚才一上网看到郭敬明自己写说“我有车，司机帮我开”这种炫富贴的时候，底下一堆人留言“因为他自己够不到油门”

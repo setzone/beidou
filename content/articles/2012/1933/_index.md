@@ -42,4 +42,6 @@ tags:
 
 原文链接：[http://www.douban.com/note/230488903/](http://www.douban.com/note/230488903/)
 
-（采编：宋晓慧；责编：何凌昊）
+---
+
+> （采编：宋晓慧；责编：何凌昊）

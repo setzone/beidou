@@ -29,7 +29,7 @@ tags:
 
 在我小时候，我最喜欢的颜色是绿色，我甚至对一切绿色的东西产生好感。可是当我问其他小朋友喜欢什么颜色时，得到的答案却五花八门。这是为什么呢？最终我做出的解释是：大家其实喜欢的都是“绿色”的感觉，只是我们对它的称呼不一样罢了。
 
-长大一点后我对这个想法做了更精确的表达：**我和小朋友们讨论的其实不是颜色，而是光的反射波长。大家喜欢同一种感觉，只是这同一个感觉对已不同人来说对应着不同波长罢了。而由于人类的局限性，我们只能为波长命名（如****500~550****纳米波长的反射光波为绿色），而不能为感觉命名。**
+长大一点后我对这个想法做了更精确的表达：**我和小朋友们讨论的其实不是颜色，而是光的反射波长。大家喜欢同一种感觉，只是这同一个感觉对已不同人来说对应着不同波长罢了。而由于人类的局限性，我们只能为波长命名（如**500~550**纳米波长的反射光波为绿色），而不能为感觉命名。**
 
 扯这么多有关颜色的话，只是想引出一个哲学观点，即“唯我论”（solipsism）。唯我论的主要怀疑是，你如何确定外部世界作用于你的感觉也以同样的方式作用于其他人呢？或者，再往想深一步，除了你自己，也许根本没有人能感受到色彩，疼痛，温度，味道，气味等感受。
 
@@ -77,11 +77,11 @@ tags:
 
 附：
 
-**体现****“****唯我论****”****哲学思想的经典影片《楚门的世界》**
+**体现**“**唯我论**”**哲学思想的经典影片《楚门的世界》**
 
 **![](d85cbfb3-5c75-4b20-aa43-f0399de39b7c.jpg)**
 
- **注释：****** [1]：
+ **注释：** [1]：
 
 文章标题出自EVA新剧场版副标题 [2]：
 
@@ -91,4 +91,6 @@ tags:
 
  Sheldon 在《生活大爆炸》第一季最后一集中拿“薛定谔的猫”来调侃Penny和Leonard的关系，原文是： In 1935,Erwin Schro Dinger in an attempt to explain the copenhagen interpretation of quantum physics.He propose an experiment where a cat is placed in a box with a sealed vial of poison that will break open at random time.Now ,since no one knows when or if the poison has been released until the box is opened.The cat can be thought of as both alive and dead.Just like Schro Dinger 's cat,your potential relationship with Leonard right now can be thought of as both good and bad.It is only by opening the box that you will find out which it is. [6]：**哥布哈根学派**是20世纪20年代初期形成的。其中玻恩、海森堡、泡利以及狄拉克等都是这个学派的主要成员。是当时世界上实力最雄厚的物理学派，不过因为其理念太过“惊人”，所以很多观点不被爱因斯坦接受。
 
-（采编：安镜轩；责编：陈锴）
+---
+
+> （采编：安镜轩；责编：陈锴）

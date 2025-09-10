@@ -108,7 +108,7 @@ tags:
 飞艇
 ![](http://fmn.rrfmn.com/fmn058/20121029/1935/b_large_C9oy_73d900000b801261.jpg)
 
-面具 ![](http://fmn.rrimg.com/fmn057/20121029/1935/b_large_QLnw_2eab000003491261.jpg\)
+面具 ![](http://fmn.rrimg.com/fmn057/20121029/1935/b_large_QLnw_2eab000003491261.jpg)
 ![](http://fmn.rrimg.com/fmn064/20121029/1935/b_large_FuAV_0eb6000001a81263.jpg)
 
 总而言之，蒸汽朋克特点可以概括为“先进与落后共存，浪漫与技术结合”。
@@ -199,49 +199,49 @@ tags:
 
 #### 电影系列：
 
-****
+---
 
-《月球旅行记》Le voyage dans la lune (1902\)
+《月球旅行记》Le voyage dans la lune (1902)
 ![](http://fmn.rrimg.com/fmn064/20121029/1935/b_large_xvEG_39d6000001fa1262.jpg)
 
-《大都会》Metropolis (1927\)
+《大都会》Metropolis (1927)
 ![](http://fmn.rrimg.com/fmn065/20121029/1935/b_large_bOVE_3672000001b01261.jpg)
 
-《海底两万里》 20,000 leages under the sea (1954\)
+《海底两万里》 20,000 leages under the sea (1954)
 ![](http://fmn.rrimg.com/fmn062/20121029/1935/b_large_5rzz_38bb000002461262.jpg)
 
-《巴西/妙想天开》 Brazil (1985\)
+《巴西/妙想天开》 Brazil (1985)
 ![](http://fmn.rrimg.com/fmn065/20121029/1935/b_large_F15s_3b06000000691261.jpg)
 
-《尼莫上尉和水下之城》 Captain Nemo and the Underwater City (1969\)
+《尼莫上尉和水下之城》 Captain Nemo and the Underwater City (1969)
 ![](http://fmn.rrimg.com/fmn060/20121029/1935/b_large_jfL6_595000000b321263.jpg)
 
-《童梦失魂夜》 The City of Lost Children (1995\)
+《童梦失魂夜》 The City of Lost Children (1995)
 ![](http://fmn.rrimg.com/fmn057/20121029/1935/b_large_CMg8_11aa000001171263.jpg)
 
-《回到未来3》Back to the Future Part III (1990\)
+《回到未来3》Back to the Future Part III (1990)
 ![](http://fmn.rrimg.com/fmn061/20121029/1935/b_large_SXPI_1307000000761263.jpg)
 
 #### 动画系列：
 
 《天空之城》天空の城ラピュタ
 
-(1986\)
+(1986)
 ![](http://fmn.rrfmn.com/fmn059/20121029/1940/b_large_dCsn_598000000b281263.jpg)
 
 《蒸汽男孩》スチームボーイ
 
-(2004\)
+(2004)
 ![](http://fmn.rrimg.com/fmn056/20121029/1940/b_large_v0NC_2ca8000003fb1261.jpg)
 
-《加斯帕·莫雷罗神秘探险记》The Mysterious Geographic Explorations of Jasper Morello (2005\)
+《加斯帕·莫雷罗神秘探险记》The Mysterious Geographic Explorations of Jasper Morello (2005)
 ![](http://fmn.rrfmn.com/fmn058/20121029/1940/b_large_kToh_595600000b041263.jpg)
 
 小说带动的不仅仅只是电影和动画，蒸汽朋克所带来的美学体验，令服装设计师、插画家、装置艺术家纷纷折服。无数蒸汽朋克元素被运用到了如今的产品中。Diessel的米兰春夏男装有了蒸汽朋克的味道，Carlex Design设计了MINI Countryman，俄罗斯设计师Alex Neretin设计了蒸汽朋克风的无线鼠标，在相机、笔记本、钢笔、手表等的改造上能人辈出，占据了Vintage市场的半边天。更别提层出不穷的机械装置模型，黄色金属结合羽毛、塑料、木头，甚至完整独立的物品，如灯泡、头骨等，装置成蒸汽朋克风格的摆设。
-![](http://fmn.rrfmn.com/fmn058/20121029/1940/b_large_CVy7_41810000003e1262.jpg\)
-![](http://fmn.rrimg.com/fmn061/20121029/1940/b_large_X2bR_39d6000002061262.jpg\)
-![](http://fmn.rrimg.com/fmn062/20121029/1940/b_large_kgOj_41ff000000271262.jpg\)
-![](http://fmn.rrimg.com/fmn061/20121029/1940/b_large_B0EW_3396000003a41262.jpg\)
+![](http://fmn.rrfmn.com/fmn058/20121029/1940/b_large_CVy7_41810000003e1262.jpg)
+![](http://fmn.rrimg.com/fmn061/20121029/1940/b_large_X2bR_39d6000002061262.jpg)
+![](http://fmn.rrimg.com/fmn062/20121029/1940/b_large_kgOj_41ff000000271262.jpg)
+![](http://fmn.rrimg.com/fmn061/20121029/1940/b_large_B0EW_3396000003a41262.jpg)
 ![](http://fmn.rrimg.com/fmn061/20121029/1940/b_large_v95d_2eab000003701261.jpg)
 
 ### 6、参考资料
@@ -252,4 +252,6 @@ tags:
 
 1、 Jeff Vandermeer，《The Steampunk Bible》，ISBN: 9780810989580
 
-（编辑：金晶；责编：海舰）
+---
+
+> （编辑：金晶；责编：海舰）

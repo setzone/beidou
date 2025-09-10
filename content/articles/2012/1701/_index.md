@@ -50,4 +50,6 @@ tags:
 
 原帖链接：[http://site.douban.com/widget/notes/3173647/note/210092662/](http://site.douban.com/widget/notes/3173647/note/210092662/)
 
-（采编：佛冉；责编：陈锴）
+---
+
+> （采编：佛冉；责编：陈锴）

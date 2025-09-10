@@ -196,4 +196,6 @@ Those who won our independence by revolution were not cowards. They did not fear
 
 [35] CNN Transcript, 11/6/2009. [http://transcripts.cnn.com/TRANSCRIPTS/0911/06/acd.02.html](http://transcripts.cnn.com/TRANSCRIPTS/0911/06/acd.02.html)
 
-（采编：尹桑；责编：陈轩）
+---
+
+> （采编：尹桑；责编：陈轩）

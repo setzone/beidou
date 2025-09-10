@@ -83,4 +83,6 @@ tags:
 满天星公益益动广州宣传页：http://www.starscn.org/index.php/yidong/
 ![yidongguangzhou3](d69f9bc0-f0a2-47e6-9e4a-a14ce82b26ed.jpg)
 
-（采编：杨添淇;；责编：万晓华）
+---
+
+> （采编：杨添淇;；责编：万晓华）

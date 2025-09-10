@@ -60,8 +60,8 @@ tags:
 “你从哪里来？”
 
 “你要到哪里去？” [丁中一](http://www.renren.com/profile.do?id=251912887) :少壮不努力，老大在内地。
-![伤不起](http://a.xnimg.cn/imgpro/icons/statusface/shangbuqi.gif\)
-![伤不起](http://a.xnimg.cn/imgpro/icons/statusface/shangbuqi.gif\)
+![伤不起](http://a.xnimg.cn/imgpro/icons/statusface/shangbuqi.gif)
+![伤不起](http://a.xnimg.cn/imgpro/icons/statusface/shangbuqi.gif)
 ![伤不起](http://a.xnimg.cn/imgpro/icons/statusface/shangbuqi.gif)
 
 [刁剑](http://www.renren.com/profile.do?id=282728375) :都大二了，还不知道考试前买份报纸放在讲台上。 [孫毅](http://sunyi0323.renren.com/?id=231550552): 总有人装英伦范儿装成了憨豆先生，总有人耍西藏风耍成了洛桑，总有人走波西米亚路线走到了流浪乞丐的大道上，总有人拿着单反挂脖子乱窜装逼被人当作了景区摆摊一元拍照快速成像的小商贩。

@@ -42,5 +42,5 @@ tags:
 
 ##【活动链接】
 
-[骆小戈：为改变而生活——格雷斯告诉我们什么](http://www.douban.com/event/20642104/\)
+[骆小戈：为改变而生活——格雷斯告诉我们什么](http://www.douban.com/event/20642104/)
 ![](xmtnxLOGO.jpg)

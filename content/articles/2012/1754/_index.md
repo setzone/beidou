@@ -124,7 +124,9 @@ Don’t repeat your mistakes.
 如果说有什么忠告，只是一句话：去经历，你就会明白一切。
 
 附上新做的模型——人生就是trial-and-error。我无法在第一次尝试就顺利无误地使所有五边形各边颜色不同，或者所有五边形各边和相等，但trial-and-error可以让我完成最终作品。 you don't try, you can't fail.
-![](0bb0c2b9-8946-483d-a824-69b3bf611aa5.jpg\)
+![](0bb0c2b9-8946-483d-a824-69b3bf611aa5.jpg)
 ![](2902c192-a109-437e-b8fb-80bdfddb59de.jpg)
 
-（采编：张金晶；责编：黄理罡）
+---
+
+> （采编：张金晶；责编：黄理罡）

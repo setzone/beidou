@@ -90,6 +90,8 @@ WFLS不大，似乎年级里每个人都多少认识。也有许多感情的故�
 
 **转载自**[流年的平面设计](http://moonick.net/)
 
-**本文链接地址****:** [十八岁开始苍老 Once There WFLS](http://moonick.net/2011/06/ages-after-18-once-there-wfls/)
+**本文链接地址**:** [十八岁开始苍老 Once There WFLS](http://moonick.net/2011/06/ages-after-18-once-there-wfls/)
 
-（采编：陈锴；责编：陈锴）
+---
+
+> （采编：陈锴；责编：陈锴）

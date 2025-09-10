@@ -87,6 +87,8 @@ ibeidou.org
 
 ibeidou.org ibeidou.org
 
-（采编：刘一舟；责编：刘一舟）
+---
+
+> （采编：刘一舟；责编：刘一舟）
 
 ibeidou.org ibeidou.org

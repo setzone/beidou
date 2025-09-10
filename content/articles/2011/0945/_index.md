@@ -14,7 +14,7 @@ tags:
 
 <!-- # ＜北斗荐书＞本期主题：社群主义：对手还是朋友？ -->
 
-<!-- # **本期主题：****社群主义：对手还是朋友？****** -->
+<!-- # **本期主题：**社群主义：对手还是朋友？** -->
 
 ## 荐书人 /陈纯（中山大学）
 
@@ -34,43 +34,45 @@ tags:
 
 ### 推荐书籍（点击蓝色字体书目可下载）：
 
-[**1****、《追寻美德》******](http://ishare.iask.sina.com.cn/f/13512335.html)
+[**1**、《追寻美德》**](http://ishare.iask.sina.com.cn/f/13512335.html)
 
 **![](1c87bc4c-9767-4027-b3c4-54f3550cdc47.jpg)
 
 **
 
-[**2****、《谁之正义？何种合理性？》******](http://ishare.iask.sina.com.cn/f/4525312.html)
+[**2**、《谁之正义？何种合理性？》**](http://ishare.iask.sina.com.cn/f/4525312.html)
 
 **![](b71be900-f632-4da6-ac35-a9e15b8954cf.jpg)
 
 **
 
-**[3](http://ishare.iask.sina.com.cn/f/8291016.html)**[**、《自我的根源》******](http://ishare.iask.sina.com.cn/f/8291016.html)
+**[3](http://ishare.iask.sina.com.cn/f/8291016.html)**[**、《自我的根源》**](http://ishare.iask.sina.com.cn/f/8291016.html)
 
 **![](162ff197-00f4-4454-a5f0-d600b49e64d7.jpg)
 
 **
 
-[**4****、《黑格尔》******](http://ishare.iask.sina.com.cn/f/11353202.html)
+[**4**、《黑格尔》**](http://ishare.iask.sina.com.cn/f/11353202.html)
 
 **![](b39fc45c-32d7-456e-98c0-ee031b8364e6.jpg)
 
 **
 
-[**5****、《正义诸领域》******](http://ishare.iask.sina.com.cn/f/7428723.html)
+[**5**、《正义诸领域》**](http://ishare.iask.sina.com.cn/f/7428723.html)
 
 **![](491b6cb5-aba3-495b-be17-e6517bf25d04.jpg)
 
 **
 
-[**6****、《自由主义与正义的局限》******](http://ishare.iask.sina.com.cn/f/10067813.html)
+[**6**、《自由主义与正义的局限》**](http://ishare.iask.sina.com.cn/f/10067813.html)
 
 **![](c3938325-c176-4586-90ac-9b23a9ccacef.jpg)
 
 **
 
-[**7****、《民主的不满》******](http://ishare.iask.sina.com.cn/f/14220465.html\)
+[**7**、《民主的不满》**](http://ishare.iask.sina.com.cn/f/14220465.html)
 ![](fd2c6ae5-74f4-442a-a100-7df1662179ce.jpg)
 
-（采编：余岚；责编：徐毅磊）
+---
+
+> （采编：余岚；责编：徐毅磊）

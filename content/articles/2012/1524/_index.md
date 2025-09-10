@@ -112,4 +112,6 @@ tags:
 
 安芯的博客：[http://blog.sina.com.cn/jing0429anita](http://blog.sina.com.cn/jing0429anita)
 
-（采编：应鹏华；责编：应鹏华）
+---
+
+> （采编：应鹏华；责编：应鹏华）

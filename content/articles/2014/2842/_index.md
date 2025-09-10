@@ -62,7 +62,9 @@ tags:
 
 ###【活动链接】
 
-[http://www.douban.com/event/21010617/](http://www.douban.com/event/21010617/ "不懂项目管理，还敢做公益"\)
+[http://www.douban.com/event/21010617/](http://www.douban.com/event/21010617/ "不懂项目管理，还敢做公益")
 ![不懂项目管理，还敢做公益](Logo.jpg)
 
-（采编：李维；责编：万晓华）
+---
+
+> （采编：李维；责编：万晓华）

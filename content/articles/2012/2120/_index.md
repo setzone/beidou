@@ -48,4 +48,6 @@ tags:
 **赖希[《法西斯主义群众心理学》](http://ishare.iask.sina.com.cn/f/6459962.html?retcode=0)**
 ![](7ca98e4b-a01a-47d5-80a7-5fbe8c41a902.jpg)
 
-（采编：刘丞；责编：陈芝）
+---
+
+> （采编：刘丞；责编：陈芝）

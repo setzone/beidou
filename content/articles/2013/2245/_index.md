@@ -41,4 +41,6 @@ tags:
 
 原文地址：[http://www.douban.com/note/260145770/](http://www.douban.com/note/260145770/)
 
-（采编：黄梅林，责编：佛冉）
+---
+
+> （采编：黄梅林，责编：佛冉）

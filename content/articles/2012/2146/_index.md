@@ -46,4 +46,6 @@ tags:
 
 原文：[http://www.douban.com/note/249508457/](http://www.douban.com/note/249508457/)
 
-（采编：佛冉，责编：佛冉）
+---
+
+> （采编：佛冉，责编：佛冉）

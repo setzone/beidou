@@ -12,7 +12,7 @@ tags:
 
 <!-- # ＜北斗荐书＞本期主题：少年与街道 -->
 
-<!-- # **本期主题：少年与街道****** -->
+<!-- # **本期主题：少年与街道** -->
 
 ## 荐书人 / 慕愁空（中国矿业大学）
 
@@ -26,17 +26,17 @@ V.S.奈保尔的《米格尔街》是通过一个孩童的视角讲述的。米�
 
 ### 推荐书籍（点击蓝色字体书目可下载）：
 
-[**1****、《米格尔街》**](http://ishare.iask.sina.com.cn/f/6394844.html)
+[**1**、《米格尔街》**](http://ishare.iask.sina.com.cn/f/6394844.html)
 
 **![](2cf226fd-9c06-4087-a6bc-db8ed7a9e2af.jpg)
 
 **
 
-[**2****、《香椿树街的故事》**](http://ishare.iask.sina.com.cn/f/7910440.html)
+[**2**、《香椿树街的故事》**](http://ishare.iask.sina.com.cn/f/7910440.html)
 
 ** ![](b1c29d91-55ff-4a5a-b4d1-2d976f77fde2.jpg)**
 
-[**3、****《少年血》**](http://ishare.iask.sina.com.cn/f/16672301.html)
+[**3、**《少年血》**](http://ishare.iask.sina.com.cn/f/16672301.html)
 
 ** ![](ab135cb0-818c-4e96-b376-708f0a3c4f98.jpg)**
 

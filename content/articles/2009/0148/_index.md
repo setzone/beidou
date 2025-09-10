@@ -61,10 +61,8 @@ tags:
 
 尊重民意，构建公共政策与民意间的良性互动，这才是现代公共社会治理的最佳方向。希望这次大连PX项目风波能够最终得到妥善解决，从而使政府对类似公共危机的处理开拓一个良好先河。
 
-**相关阅读：
+**相关阅读：**
 
-厦门PX项目事件始末：**[**http://news.sina.com.cn/c/2007-12-28/053914619388.shtml**](http://news.sina.com.cn/c/2007-12-28/053914619388.shtml)
-
-**PX简介：**[**http://baike.baidu.com/view/971780.htm**](http://baike.baidu.com/view/971780.htm)
-
-**大连就福佳大化PX项目环保情况做出回应：**[**http://www.ln.xinhuanet.com/xwzx/2009-07/25/content_17201200.htm**](http://www.ln.xinhuanet.com/xwzx/2009-07/25/content_17201200.htm)
+- **厦门PX项目事件始末：**[http://news.sina.com.cn/c/2007-12-28/053914619388.shtml](http://news.sina.com.cn/c/2007-12-28/053914619388.shtml)
+- **PX简介：**[http://baike.baidu.com/view/971780.htm](http://baike.baidu.com/view/971780.htm)
+- **大连就福佳大化PX项目环保情况做出回应：**[http://www.ln.xinhuanet.com/xwzx/2009-07/25/content_17201200.htm](http://www.ln.xinhuanet.com/xwzx/2009-07/25/content_17201200.htm)

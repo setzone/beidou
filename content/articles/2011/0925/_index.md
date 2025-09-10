@@ -28,7 +28,7 @@ tags:
 
 ### 推荐书籍（点击蓝色字体书目可下载）：
 
-[《残雪自选集》](http://ishare.iask.sina.com.cn/f/10194428.html残雪自选集\)
+[《残雪自选集》](http://ishare.iask.sina.com.cn/f/10194428.html残雪自选集)
 ![](0ddcb482-2cce-48c6-9318-1d8b65c56d50.jpg)
 
 （采稿：徐毅磊；责编：徐毅磊）

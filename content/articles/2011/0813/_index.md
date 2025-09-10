@@ -112,7 +112,7 @@ tags:
 
 ### 推荐书籍（点击蓝色书目可下载）：
 
-**《[蒙面骑士](http://ishare.iask.sina.com.cn/f/15234938.html)****》**
+**《[蒙面骑士](http://ishare.iask.sina.com.cn/f/15234938.html)》**
 
 **![](ff5f1c2a-49eb-4215-89af-32dddc93fcc4.jpg)
 

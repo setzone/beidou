@@ -89,4 +89,6 @@ tags:
 
 我们期待您的到来！ STHK官方网站：[http://www.straittalkhk.org](http://www.straittalkhk.org)
 
-（采编：陈轩；责编：陈轩）
+---
+
+> （采编：陈轩；责编：陈轩）

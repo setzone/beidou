@@ -215,4 +215,6 @@ tags:
 
 作者人人主页地址： [http://www.renren.com/profile.do?id=234146417](http://www.renren.com/profile.do?id=234146417)
 
-（采编：应鹏华；责编：麦静）
+---
+
+> （采编：应鹏华；责编：麦静）

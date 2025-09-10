@@ -33,7 +33,7 @@ tags:
 
 ### 推荐书籍（点击蓝色字体书目可下载）：
 
-### [《交锋》](http://ishare.iask.sina.com.cn/f/14435740.html\)
+### [《交锋》](http://ishare.iask.sina.com.cn/f/14435740.html)
 ![](3e689e5c-166b-4c9b-a8da-818b52ba01ab.jpg)
 
 （来自投稿邮箱；责编：项栋梁）
