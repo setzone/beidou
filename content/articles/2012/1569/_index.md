@@ -2,9 +2,10 @@
 title: <特稿>Ideas are bulletproof——漫谈雷锋、两会和 New iPad
 date: '2012-03-11T10:45:53.000Z'
 authors:
-- 佚名
+- 尹桑
 series: []
 tags:
+- Bentley University
 - “论雷锋的倒掉”专题
 - 两会
 - 北斗专题
@@ -16,13 +17,11 @@ tags:
 
 <!-- # ＜特稿＞Ideas are bulletproof——漫谈雷锋、两会和 New iPad -->
 
-**思想是杨小凯的精灵，从冬天飞向春天；是李敖囹圄里的色情杂志，在黑市里被疯狂传阅；是苏格拉底喝下的毒堇汁，化为克里西托的章节；是希伯斯的无理数，变成现代数学的起点。她不会死，不会消亡，不会被囚禁。一旦她存在过，便永远存在。**
+> 思想是杨小凯的精灵，从冬天飞向春天；是李敖囹圄里的色情杂志，在黑市里被疯狂传阅；是苏格拉底喝下的毒堇汁，化为克里西托的章节；是希伯斯的无理数，变成现代数学的起点。她不会死，不会消亡，不会被囚禁。一旦她存在过，便永远存在。
 
-# Ideas are bulletproof
+# Ideas are bulletproof——漫谈雷锋、两会和 New iPad
 
-# ——漫谈雷锋、两会和 New iPad
-
-## 文 / 尹桑（Bentley University）
+> **文 / 尹桑（Bentley University）**
 
 Beneath this mask there is more than flesh. Beneath this mask there is an idea, and ideas are bulletproof.
 

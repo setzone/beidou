@@ -2,9 +2,10 @@
 title: <第三十三期·天玑>复制生物你懂不懂?有什么用你懂不懂?【“科学解释”专栏】
 date: '2009-03-17T13:58:05.000Z'
 authors:
-- 佚名
+- 陈力恒
 series: []
 tags:
+- 澳洲留学生
 - 为学
 - 天玑
 - 第三十三期
@@ -12,11 +13,11 @@ tags:
 
 <!-- # <第三十三期 天玑>复制生物你懂不懂？有什么用你懂不懂？【“科学解释”专栏】 -->
 
-**“我试图厘清一般人对复制生物之误解：不自然、跟原体一模一样、知觉复制和没灵魂，并介绍这种技术的几种实际应用：器官移植、生物多样性和医药。”**
+> “我试图厘清一般人对复制生物之误解：不自然、跟原体一模一样、知觉复制和没灵魂，并介绍这种技术的几种实际应用：器官移植、生物多样性和医药。”
 
 # 复制生物你懂不懂？有什么用你懂不懂？
 
-## 文/陈力恒（澳洲留学生）
+> **文 / 陈力恒（澳洲留学生）**
 
 I'm happy being myself, which I've never been before. I always hid in other people or tried to find myself through the characters, or live out their lives, but I didn't have those things in mine.
 

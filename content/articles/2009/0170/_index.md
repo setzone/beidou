@@ -2,22 +2,21 @@
 title: 《荒野生存》启发的荒野生存——献给所有的子女
 date: '2009-07-31T03:58:49.000Z'
 authors:
-- 佚名
+- 宁湖
 series: []
 tags:
+- University of California - Berkeley
 - 专栏
 - 文艺
 ---
 
 <!-- # 《荒野生存》启发的荒野生存 —— 献给所有的子女 -->
 
-**往期经典**
+> 往期经典
 
-# 《荒野生存》启发的荒野生存
+# 《荒野生存》启发的荒野生存—— 献给所有的子女
 
-# —— 献给所有的子女
-
-## 文/宁湖 （University of California - Berkeley)
+> **文 / 宁湖 （University of California - Berkeley)**
 
 我第一次看《荒野生存》（Into the Wild）是在太平洋的上空，海拔一万二千英尺。在飞机上半睡半醒，只记得这个片子是一个真实的故事：一个很热爱自然的人在荒野中生存了两年，最后因为食物中毒死掉了。
 

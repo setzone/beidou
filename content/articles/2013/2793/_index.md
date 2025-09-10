@@ -56,7 +56,7 @@ tags:
 本周女影广州观影活动，请关注新浪微博_[@新媒体女性](http://weibo.com/u/1527379661)([http://weibo.com/u/1527379661](http://weibo.com/u/1527379661?from=profile&wvr=5&loc=infdomain))
 ![女影广州活动海报
 
-- 副本](ad26436e-53e9-439d-a5e0-48f9ba8e1b4c.jpg)
+!- 副本](ad26436e-53e9-439d-a5e0-48f9ba8e1b4c.jpg)
 
 ---
 

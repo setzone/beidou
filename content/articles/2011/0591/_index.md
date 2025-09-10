@@ -140,6 +140,4 @@ tags:
 
 **（**出手评论，参与七星视点。投稿邮箱： [ibeidouview@gmail.com](mailto:ibeidouview@gmail.com)）**
 
-**
-
 **（采编：钱思韵、杨再爽、陈造极、金吉男、刘一舟；责编：刘一舟）**

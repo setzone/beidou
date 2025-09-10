@@ -121,8 +121,6 @@ AIESEC 的成长显示了 Global Exchange Program 对多国间的合作是具有
 
 “AIESEC 2005 – AIESEC 新的愿景”，并作为组织活动的指导文件
 
-**
-
 · 2002年
 
 中国大陆区（Mainland of China）正式入会**

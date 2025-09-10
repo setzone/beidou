@@ -2,9 +2,10 @@
 title: <天权>《Survivors of Siberia》
 date: '2012-10-29T14:22:50.000Z'
 authors:
-- 佚名
+- 张益清
 series: []
 tags:
+- Syracuse University
 - 天权
 - 孤独
 - 小说
@@ -16,7 +17,7 @@ tags:
 
 <!-- # ＜天权＞《Survivors of Siberia》 -->
 
-**所谓交待身世，大约不过如此。你们的身后，是西伯利亚白茫茫的冰原。而你们，是两个幸存者。
+> 所谓交待身世，大约不过如此。你们的身后，是西伯利亚白茫茫的冰原。而你们，是两个幸存者。
 
 所有的冬天，都好像很漫长。你对他说。
 
@@ -26,11 +27,10 @@ tags:
 
 # Survivors of Siberia
 
-## 文/张益清（Syracuse University ）
+> **文 / 张益清（Syracuse University ）**
 
 **1，
 
-**
 ![](fdcb822f-a911-4129-a70b-c3734724189e.jpg)
 
 那个冬天，真是漫长。

@@ -2,9 +2,10 @@
 title: <玉衡>东山魁夷：另一种美
 date: '2012-09-22T12:48:58.000Z'
 authors:
-- 佚名
+- 廖汉斯
 series: []
 tags:
+- University of Michigan Ann Arbor
 - 廖汉斯
 - 日本
 - 玉衡
@@ -18,7 +19,7 @@ tags:
 
 # 东山魁夷：另一种美
 
-##  文/廖汉斯（University of Michigan Ann Arbor）
+> **文 / 廖汉斯（University of Michigan Ann Arbor）**
 
 “倘若樱花常开，我们的生命常在，那么二者的巧合不会引起任何感动。花儿由于其可能凋谢才更显示出生命的光辉。在感到花儿美好的心灵深处，我们一定会在无意识中不由得彼此珍惜自己的生命，感到在这茫茫世界的短暂生存期间能有缘相遇的喜悦。"
 

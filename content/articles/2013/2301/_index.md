@@ -61,8 +61,6 @@ tags:
 
 **＊Blog：哲學哲學雞蛋糕
 
-**
-
 企圖以一般人看得懂的方式談論哲學。
 
 [http://phiphicake.blogspot.tw/2012/03/blog-post_14.html](http://phiphicake.blogspot.tw/2012/03/blog-post_14.html)

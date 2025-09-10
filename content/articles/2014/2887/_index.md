@@ -70,7 +70,7 @@ tags:
 
 （下载链接）
 
-<center><a href="cogito.docx" class="btn btn-large btn-info unindent">报名表下载</a></center>
+报名表下载(cogito.docx)
 
-<center><h2>加入Cogito摘星，分享思考的乐趣！</h2></center>
+<h2>加入Cogito摘星，分享思考的乐趣！</h2>
 ![cogito.jpg](cogito.jpg)

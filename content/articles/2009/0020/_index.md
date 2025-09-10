@@ -15,11 +15,9 @@ tags:
 
 <!-- # <第三十二期·天玑>风云变幻诚多端──大自然之混沌与分形【“科学解释”专栏】 -->
 
-**“清朝大学士纪昀﹝字晓岚﹞曾以「螳螂捕蝉，黄雀在后」喻眼光短浅。有没有荒诞地想过，那黄雀之后又有蝉，蝉之后又有螳螂，螳螂之后又有黄雀，如此类推，不断循环？这可能是分形的其中一个精髓，尽管不够准确。”**
+> “清朝大学士纪昀﹝字晓岚﹞曾以「螳螂捕蝉，黄雀在后」喻眼光短浅。有没有荒诞地想过，那黄雀之后又有蝉，蝉之后又有螳螂，螳螂之后又有黄雀，如此类推，不断循环？这可能是分形的其中一个精髓，尽管不够准确。”
 
-# 风云变幻诚多端
-
-# ──大自然之混沌与分形
+# 风云变幻诚多端──大自然之混沌与分形
 
 ## 图/文 北斗撰稿人
 
@@ -51,4 +49,28 @@ tags:
 
 注释：
 
-[1] 「上帝掷骰子」这话该理解为「世界没规律」，不应钻牛角尖争辩这话预设上帝存在而没有实证。原文为：The question is not so much whether God plays dice, but how God plays dice. 见：Ian Stewart, Does God Play Dice? The New Mathematics of Chaos. (2nd ed.) London: Penguin Books, 1997, p.xii. [2] 转引自 James Gleick, Chaos: Making A New Science. London: Vintage, 1998, p.282. [3] 冯梦龙：《喻世明言．卷十八．杨八老越国奇逢》。 [4] A.J. Ayer, Languages, Truth and Logic. London: Penguin Books, 2001, p.9. [5] 简言之，语句有分析和综合。分析语句的真伪只取决于表达式的用法，是先验、必然和无经验内容的；综合语句的真伪除了取决于表达式的用法，还要检查现实世界，是后验、盖然和有经验内容的。科学理论通常是综合语句。请参看张海澎：《分析逻辑──理性思维的基石》﹝香港：青年书屋，2004 年 6 月初版﹞，页 75-79。 [6] Edward Lorenz, The Essence of Chaos. Seattle: The University of Washington Press, 1993, p.5. [7] Richard P. Feynman, Robert B. Leighton and Matthew Sands, The Feynman Lectures on Physics. (Definitive ed.) Reading, Massachusetts: Addison-Wesley Publishing Company, 2006 (7th printing, 2007), Volume 1, p.6-1. [8] 奇斯洛夫斯基﹝Krzysztof Kieślowski﹞：电影《盲打误撞》﹝Przypadek，1987 年﹞。 [9] 提克威尔﹝Tom Tykwer﹞：电影《疾走罗拉》﹝Lola Rennt，1998 年﹞。 [10] 同注 6，p.9-11. [11] 原文为：seemingly random and unpredictable behavior that nevertheless proceeds according to precise and often easily expressed rules. 同注 6，p.ix. [12] 原文为：an essential property of chaotic behavior is that nearby states will eventually diverge no matter how small the initial differences may be. 同注 6，p.32. [13] 考虑到读者的程度不一，我不打算作太专门的解释﹝即涉及随机、伪随机、决定性混沌等等，其实 James A. Yorke 甚至说过：「If you could write down the solution to a differential equation, then necessarily it's not chaotic」转引自同注 2，p.76-68.﹞。这只是一篇可能还算不上普及科学的文章，旨在介绍混沌与分形这些上世纪后半期才发展的科学，并唤起读者兴趣而作伸延阅读。写科普读物最难之处是不用专门名词而让门外汉了解科学又不乏味。 [14] 原文为：Precise definitions are not always convenient ones. 同注 6，p.16. [15] 以 MATLAB R2006a 绘。 [16] 纪昀：《阅微草堂笔记．卷四．槐西杂志十四》。语本见《庄子．山木》：「睹一蝉，方得美荫而忘其身，螳螂执翳而搏之，见得而忘其形；异鹊从而利之，见利而忘其真。」 [17] Benoit B. Mandelbrot, The Fractal Geometry of Nature. New York: W.H. Freeman and Company, 2000, p.1. [18] 同注 17，第五章。或见：Benoit B. Mandelbrot, How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension. Science. 156, 1967, p.636-638. [19] 参看：[http://en.wikipedia.org/wiki/Image:Kochsim.gif](http://en.wikipedia.org/wiki/Image:Kochsim.gif) [20] 同注 2，p.105-106. [21] 以 MATLAB R2006a 绘，程序由 Alberto Strumia 编写。参看：[http://www.ciram.unibo.it/~strumia/](http://www.ciram.unibo.it/~strumia/) [22] Howard Anton and Chris Rorres, Elementary Linear Algebra Application Version. (8th ed.) John Wiley & Sons, Inc., 2000, ch.11.14-11.15. [23] Heinz-Otto Peitgen , Hartmut Jürgens and Dietmar Saupe, Chaos and Fractals: New Frontiers of Science. (2nd ed.) New York: Springer-Verlag, 2004.
+
+- [1] 「上帝掷骰子」这话该理解为「世界没规律」，不应钻牛角尖争辩这话预设上帝存在而没有实证。原文为：The question is not so much whether God plays dice, but how God plays dice. 见：Ian Stewart, Does God Play Dice? The New Mathematics of Chaos. (2nd ed.) London: Penguin Books, 1997, p.xii. 
+- [2] 转引自 James Gleick, Chaos: Making A New Science. London: Vintage, 1998, p.282. 
+- [3] 冯梦龙：《喻世明言．卷十八．杨八老越国奇逢》。 
+- [4] A.J. Ayer, Languages, Truth and Logic. London: Penguin Books, 2001, p.9. 
+- [5] 简言之，语句有分析和综合。分析语句的真伪只取决于表达式的用法，是先验、必然和无经验内容的；综合语句的真伪除了取决于表达式的用法，还要检查现实世界，是后验、盖然和有经验内容的。科学理论通常是综合语句。请参看张海澎：《分析逻辑──理性思维的基石》﹝香港：青年书屋，2004 年 6 月初版﹞，页 75-79。 
+- [6] Edward Lorenz, The Essence of Chaos. Seattle: The University of Washington Press, 1993, p.5. 
+- [7] Richard P. Feynman, Robert B. Leighton and Matthew Sands, The Feynman Lectures on Physics. (Definitive ed.) Reading, Massachusetts: Addison-Wesley Publishing Company, 2006 (7th printing, 2007), Volume 1, p.6-1. 
+- [8] 奇斯洛夫斯基﹝Krzysztof Kieślowski﹞：电影《盲打误撞》﹝Przypadek，1987 年﹞。 
+- [9] 提克威尔﹝Tom Tykwer﹞：电影《疾走罗拉》﹝Lola Rennt，1998 年﹞。 
+- [10] 同注 6，p.9-11. 
+- [11] 原文为：seemingly random and unpredictable behavior that nevertheless proceeds according to precise and often easily expressed rules. 同注 6，p.ix. 
+- [12] 原文为：an essential property of chaotic behavior is that nearby states will eventually diverge no matter how small the initial differences may be. 同注 6，p.32. 
+- [13] 考虑到读者的程度不一，我不打算作太专门的解释﹝即涉及随机、伪随机、决定性混沌等等，其实 James A. Yorke 甚至说过：「If you could write down the solution to a differential equation, then necessarily it's not chaotic」转引自同注 2，p.76-68.﹞。这只是一篇可能还算不上普及科学的文章，旨在介绍混沌与分形这些上世纪后半期才发展的科学，并唤起读者兴趣而作伸延阅读。写科普读物最难之处是不用专门名词而让门外汉了解科学又不乏味。 
+- [14] 原文为：Precise definitions are not always convenient ones. 同注 6，p.16. 
+- [15] 以 MATLAB R2006a 绘。 
+- [16] 纪昀：《阅微草堂笔记．卷四．槐西杂志十四》。语本见《庄子．山木》：「睹一蝉，方得美荫而忘其身，螳螂执翳而搏之，见得而忘其形；异鹊从而利之，见利而忘其真。」 
+- [17] Benoit B. Mandelbrot, The Fractal Geometry of Nature. New York: W.H. Freeman and Company, 2000, p.1. 
+- [18] 同注 17，第五章。或见：Benoit B. Mandelbrot, How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension. Science. 156, 1967, p.636-638. 
+- [19] 参看：![http://en.wikipedia.org/wiki/Image:Kochsim.gif](http://en.wikipedia.org/wiki/Image:Kochsim.gif) 
+- [20] 同注 2，p.105-106. 
+- [21] 以 MATLAB R2006a 绘，程序由 Alberto Strumia 编写。参看：
+- [http://www.ciram.unibo.it/~strumia/](http://www.ciram.unibo.it/~strumia/) 
+- [22] Howard Anton and Chris Rorres, Elementary Linear Algebra Application Version. (8th ed.) John Wiley & Sons, Inc., 2000, ch.11.14-11.15. 
+- [23] Heinz-Otto Peitgen , Hartmut Jürgens and Dietmar Saupe, Chaos and Fractals: New Frontiers of Science. (2nd ed.) New York: Springer-Verlag, 2004.

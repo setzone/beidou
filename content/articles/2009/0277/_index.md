@@ -18,7 +18,7 @@ tags:
 
 ## [谢熊猫](http://panda.n2studio.org/)
 
- **[](84d61a92-1460-4c32-85f0-b40aeed87aa2.jpg)That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.------Matthew 5:45**
+! **[](84d61a92-1460-4c32-85f0-b40aeed87aa2.jpg)That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.------Matthew 5:45**
 
 ### Our Father, who art in heaven.
 

@@ -58,11 +58,9 @@ tags:
 
 【深入阅读】：
 
-《王老吉诉加多宝虚假宣传
-
-诉中禁令暗藏杀机》 [http://www.ce.cn/cysc/sp/info/201301/24/t20130124_21325000.shtml](http://www.ce.cn/cysc/sp/info/201301/24/t20130124_21325000.shtml")<a 《广药诉加多宝虚假宣传
-
-加多宝改名广告词叫停》 [http://food.southcn.com/c/2013-02/01/content_63270751.htm](http://food.southcn.com/c/2013-02/01/content_63270751.htm)
+《王老吉诉加多宝虚假宣传诉中禁令暗藏杀机》 [http://www.ce.cn/cysc/sp/info/201301/24/t20130124_21325000.shtml](http://www.ce.cn/cysc/sp/info/201301/24/t20130124_21325000.shtml")
+ 
+《广药诉加多宝虚假宣传加多宝改名广告词叫停》 [http://food.southcn.com/c/2013-02/01/content_63270751.htm](http://food.southcn.com/c/2013-02/01/content_63270751.htm)
 
 《浅析民事诉讼中行为保全的若干问题》，赵沛沛，《山西省政法管理干部学院学报》2007年3月，第2o卷第1期
 

@@ -2,9 +2,10 @@
 title: <北斗荐书>本期主题：都市里的村庄
 date: '2012-05-21T11:05:47.000Z'
 authors:
-- 佚名
+- 思郁
 series: []
 tags:
+- 北斗撰稿人
 - 乡村
 - 城市
 - 新书评荐
@@ -16,7 +17,7 @@ tags:
 
 <!-- # 本期主题：都市里的村庄 -->
 
-## 荐书人 / [思郁](http://book.douban.com/people/ygy8245/)（北斗撰稿人）
+> **荐书人 / [思郁](http://book.douban.com/people/ygy8245/)（北斗撰稿人）**
 
 我从乡村来。
 

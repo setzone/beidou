@@ -2,9 +2,10 @@
 title: <摇光>人身攻击和人身攻击攻击,看完你才明白什么叫人身攻击
 date: '2011-03-25T12:00:59.000Z'
 authors:
-- 佚名
+- 谢至理
 series: []
 tags:
+- 北斗撰稿人
 - 摇光
 - 文艺
 - 杂谈
@@ -19,7 +20,7 @@ tags:
 
 # 看完你才明白什么叫人身攻击
 
-## 文 / 谢至理（北斗撰稿人）
+> **文 / 谢至理（北斗撰稿人）**
 
 灵感和部分内容来自[http://plover.net/~bonds/adhominem.html](http://plover.net/~bonds/adhominem.html)
 

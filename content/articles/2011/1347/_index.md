@@ -2,9 +2,10 @@
 title: <开阳>乐章之间不能鼓掌(下)
 date: '2011-12-10T12:50:37.000Z'
 authors:
-- 佚名
+- 翁子哲
 series: []
 tags:
+- 中山大学
 - 开阳
 - 文艺
 - 艺术
@@ -13,11 +14,11 @@ tags:
 
 <!-- # ＜开阳＞乐章之间不能鼓掌（下） -->
 
-**尽管如今复杂的仪式也是古典音乐吸引一些人的原因，但其负面效果足以抵消由此带来的好处。如果我的某个刚刚接触古典音乐的朋友询问我如何鼓掌，我能给的建议就是：你想什么时候鼓掌就什么时候鼓掌。**
+> 尽管如今复杂的仪式也是古典音乐吸引一些人的原因，但其负面效果足以抵消由此带来的好处。如果我的某个刚刚接触古典音乐的朋友询问我如何鼓掌，我能给的建议就是：你想什么时候鼓掌就什么时候鼓掌。
 
 # 乐章之间不能鼓掌（下）
 
-## 文/翁子哲（中山大学）
+> **文 / 翁子哲（中山大学）**
 ![](96371ec2-8d90-4b16-9637-ee8ffb2fdc41.jpg)
 
 **[乐章之间不能鼓掌（上）](/?p=17256)**
@@ -64,8 +65,6 @@ tags:
 “Now, if any of you in the audience are newcomers to classical music, and aren't sure when to applaud, don't be nervous. Apparently, President Kennedy had the same problem. He and Jackie held several classical music events here, and more than once he started applauding when he wasn't supposed to. So the social secretary worked out a system where she'd signal him through a crack in the door. Now, fortunately, I have Michelle to tell me when to applaud. The rest of you are on your own.”
 
 **“The rest of you are on your own.”
-
-**
 
 这就是我想说的。
 

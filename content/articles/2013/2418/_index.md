@@ -86,7 +86,7 @@ _预告片：请[点击这里](http://video.sina.com.cn/v/b/98521137-1290055681.
 
 入围第28届法国环境影展
 
-国际竞赛单元 2010/11 法国Shadows film festival 展映 2010/11 第二届中德纪录片电影论坛,展映 
+国际竞赛单元 2010/11 法国Shadows film festival 展映 2010/11 第二届中德纪录片电影论坛,展映
 ![piaochong_may_13_3](ff2376b9-74bc-43cc-8f03-5953672e0cc2.jpg)
 
 ---
