@@ -1,4 +1,4 @@
-name: Deploy Site
+name: GitHub Pages
 
 on:
   push:
@@ -7,43 +7,58 @@ on:
     paths-ignore:
       - "README.md"
       - ".gitignore"
-      - "*.py"
   workflow_dispatch:
+  # schedule:
+  #   - cron: "5 5 * * 6"
 
 jobs:
   deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
     permissions:
       pages: write
       id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+
+    env:
+      USER: ${{ github.repository_owner }}
+      REPO: ${{ github.event.repository.name }}
+      HUGO_VERSION: latest
+      HUGO_ENVIRONMENT: production
 
     steps:
       - uses: actions/checkout@v4
-        # with:
-        #   submodules: true
-        #   fetch-depth: 0
+
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "latest"
-          # extended: true
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
 
       - name: Preprocess
-        run: hugo mod get -u && hugo mod tidy
+        run: |
+          # hugo mod get -u && hugo mod tidy
+          git submodule update --depth=1 --init --remote # --recursive
 
-      - name: Build
-        run: hugo --minify
+      - name: Build Site
+        run: |
+          hugo --gc --minify --baseURL https://${USER}.github.io
 
       - name: Setup pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
+
       - name: Deploy to GitHub pages
         id: deployment
         uses: actions/deploy-pages@v4
