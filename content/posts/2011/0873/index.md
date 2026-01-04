@@ -41,7 +41,7 @@ tags:
 
 #### 【吐槽】
 
-[吴万谦 ](http://www.renren.com/profile.do?id=228207429):为啥《爱我中华》和
+[吴万谦](http://www.renren.com/profile.do?id=228207429):为啥《爱我中华》和
 
 哈里路亚
 
@@ -75,4 +75,4 @@ tags:
 
 ![](48778fa4-a6db-4713-8855-4aa1b3beb8b9.jpg)
 
-(责编：陈造极）
+> （责编：陈造极）

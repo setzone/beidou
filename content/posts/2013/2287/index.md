@@ -149,6 +149,6 @@ tags:
 
 前者以為教室就是教育，後者知道教育是沒有牆的。
 
- Edit by Paul
+Edit by Paul
 
 採編：Vanessa 責編：余澤霖

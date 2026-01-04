@@ -53,9 +53,9 @@ tags:
 
 现代信息通信技术的发展，才是推动社会公平和制度变革背后最大的一股推动力，也是最硬邦邦的推动力。
 
-“Look out honey, cause I'm using technology”
-
-----Iggy Pop 《Search & Destroy》
+> “Look out honey, cause I'm using technology”
+> 
+> ——Iggy Pop 《Search & Destroy》
 
 没错，你们要小心了，我们可是有技术含量的。
 

@@ -85,15 +85,15 @@ tags:
 
 **![](d85cbfb3-5c75-4b20-aa43-f0399de39b7c.jpg)**
 
- **注释：** [1]：
+**注释：** [1]：
 
 文章标题出自EVA新剧场版副标题 [2]：
 
-**第二性质**，由英国哲学家约翰洛克提出，洛克主张感官的性质可分为“第一性质”和“第二性质”。物质的第一性质包括了[形状](http://baike.baidu.com/view/1105819.htm)、运动或静止、数目等和物质不可分离的那些性质，而次性质则包括了颜色、声音、气味等其他各种性质。洛克认为主性质就在物体里，次性质只在知觉者中。 [3]：: **德布罗意波**，又称物质波，属于概率波，指空间中某点某时刻可能出现的几率其中概率的大小受波动规律的支配。量子力学认为物质没有确定的位置，它表现出的宏观看起来的位置其实是对几率波函数的平均值，在不测量时，它出现在哪里都有可能，一旦测量，就得到它的平均值和确定的位置。由[法国](http://baike.baidu.com/view/64741.htm)物理学家--德布罗意提出的概念。 [4]：
+**第二性质**，由英国哲学家约翰洛克提出，洛克主张感官的性质可分为“第一性质”和“第二性质”。物质的第一性质包括了[形状](http://baike.baidu.com/view/1105819.htm)、运动或静止、数目等和物质不可分离的那些性质，而次性质则包括了颜色、声音、气味等其他各种性质。洛克认为主性质就在物体里，次性质只在知觉者中。 [3]：：** 德布罗意波**，又称物质波，属于概率波，指空间中某点某时刻可能出现的几率其中概率的大小受波动规律的支配。量子力学认为物质没有确定的位置，它表现出的宏观看起来的位置其实是对几率波函数的平均值，在不测量时，它出现在哪里都有可能，一旦测量，就得到它的平均值和确定的位置。由[法国](http://baike.baidu.com/view/64741.htm)物理学家--德布罗意提出的概念。 [4]：
 
 **海森堡测不准定律**，是量子力学的一个基本原理，由德国物理学家海森堡于1927年提出。该原理表明：一个微观粒子的某些物理量（如位置和动量，或方位角与动量矩，还有时间和能量等），不可能同时具有确定的数值，其中一个量越确定，另一个量的不确定程度就越大。 [5]：**薛定谔的猫**（:**Erwin Schrodinger's Cat**）是奥地利物理学家埃尔温·薛定谔试图证明量子力学在宏观条件下的不完备性而提出的一个思想实验。实验内容如下：把一只猫放进一个封闭的盒子里，然后把这个盒子连接到一个包含一个放射性原子核和一个装有有毒气体的容器的实验装置。设想这个放射性原子核在一个小时内有50％的可能性发生衰变。如果发生衰变，它将会发射出一个粒子，而发射出的这个粒子将会触发这个实验装置，打开装有毒气的容器，从而杀死这只猫。根据量子力学，未进行观察时，这个原子核处于已衰变和未衰变的叠加态，但是，如果在一个小时后把盒子打开，实验者只能看到“衰变的原子核和死猫”或者“未衰变的原子核和活猫”两种情况。
 
- Sheldon 在《生活大爆炸》第一季最后一集中拿“薛定谔的猫”来调侃Penny和Leonard的关系，原文是： In 1935,Erwin Schro Dinger in an attempt to explain the copenhagen interpretation of quantum physics.He propose an experiment where a cat is placed in a box with a sealed vial of poison that will break open at random time.Now ,since no one knows when or if the poison has been released until the box is opened.The cat can be thought of as both alive and dead.Just like Schro Dinger 's cat,your potential relationship with Leonard right now can be thought of as both good and bad.It is only by opening the box that you will find out which it is. [6]：**哥布哈根学派**是20世纪20年代初期形成的。其中玻恩、海森堡、泡利以及狄拉克等都是这个学派的主要成员。是当时世界上实力最雄厚的物理学派，不过因为其理念太过“惊人”，所以很多观点不被爱因斯坦接受。
+Sheldon 在《生活大爆炸》第一季最后一集中拿“薛定谔的猫”来调侃Penny和Leonard的关系，原文是： In 1935,Erwin Schro Dinger in an attempt to explain the copenhagen interpretation of quantum physics.He propose an experiment where a cat is placed in a box with a sealed vial of poison that will break open at random time.Now ,since no one knows when or if the poison has been released until the box is opened.The cat can be thought of as both alive and dead.Just like Schro Dinger 's cat,your potential relationship with Leonard right now can be thought of as both good and bad.It is only by opening the box that you will find out which it is. [6]：**哥布哈根学派**是20世纪20年代初期形成的。其中玻恩、海森堡、泡利以及狄拉克等都是这个学派的主要成员。是当时世界上实力最雄厚的物理学派，不过因为其理念太过“惊人”，所以很多观点不被爱因斯坦接受。
 
 ---
 

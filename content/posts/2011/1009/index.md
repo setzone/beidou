@@ -65,66 +65,77 @@ tags:
 
 另需声明的一点是，当有人从下列的书目中看出我严重的意识形态偏向时，肯定会诘问我这是否与我所强调的知识结构的完整性相矛盾。我不否认这是一个带有导向性的书单，借用他们的意识形态话语来说，这个书单是“自由化的、西化的”。但在我看来，自由主义是一切独立自由思考的起点，在此基础上，你才有可能是一个真正的左派或者右派，否则你就只不过是一个精神上的脑残、奴隶。因为自由主义的知识体系是开放的，它不同于任何其它主义的地方就在于，任何主义的存在都是以自由主义为前提的。启蒙的意义不在于给你某种具体的知识，而在于培养人的一种自由独立思考的能力。在这个意义上说，自由主义是起点，但绝不是终点。这个书单所强调的知识结构的完整性是进行自由独立思考的基础，因此这个书单只是提供了一个起点，而且我们也只有从这里出发，我们在智识上的发展才能获得无限可能。
 
-### 推荐书籍（点击蓝色字体书目可下载）：
+## 推荐书籍
+（点击蓝色字体书目可下载）：
 
-## 一、**历史（一）中国史1. 伊佩霞：
+### 一、历史
 
-**[《剑桥插图中国史》](http://ishare.iask.sina.com.cn/f/14085327.html)2. **费正清：**[《中国：传统与变迁》](http://ishare.iask.sina.com.cn/f/11512924.html)**
+### （一）中国史
 
-、 **[《美国与中国》](http://ishare.iask.sina.com.cn/f/7740476.html)**
+1. 伊佩霞：[《剑桥插图中国史》](http://ishare.iask.sina.com.cn/f/14085327.html)
+2. 费正清：[《中国：传统与变迁》](http://ishare.iask.sina.com.cn/f/11512924.html)、 [《美国与中国》](http://ishare.iask.sina.com.cn/f/7740476.html)、 *[《中国新史》](http://u.115.com/file/dnha0lte)
+3.黄仁宇：[《中国大历史》](http://ishare.iask.sina.com.cn/f/5407681.html)
+4.钱穆： [《国史大纲》](http://ishare.iask.sina.com.cn/f/6097888.html)、 [《中国历代政治得失》](http://ishare.iask.sina.com.cn/f/7318907.html)、 [《国史新论》](http://ishare.iask.sina.com.cn/f/14153299.html)、 [《中国文化史导论》](http://ishare.iask.sina.com.cn/f/12677180.html)
+5.谢和耐： [《中国社会史》](http://ishare.iask.sina.com.cn/f/7898974.html)
+6.吴思： [《隐蔽的秩序-拆解历史弈局》](http://ishare.iask.sina.com.cn/f/13636366.html)、 [《潜规则-中国历史中的真实游戏》](http://ishare.iask.sina.com.cn/f/8435518.html)、 [《血酬定律-中国历史上的生存游戏》](http://ishare.iask.sina.com.cn/f/5714725.html)
+7.孙隆基： [《历史学家的经线》](http://ishare.iask.sina.com.cn/f/13453683.html)
 
-、 ***[《中国新史》](http://u.115.com/file/dnha0lte)3. **黄仁宇：
-
-**[《中国大历史》](http://ishare.iask.sina.com.cn/f/5407681.html)4. **钱穆： [《国史大纲》](http://ishare.iask.sina.com.cn/f/6097888.html)
-
-、 [《中国历代政治得失》](http://ishare.iask.sina.com.cn/f/7318907.html)
-
-、 [《国史新论》](http://ishare.iask.sina.com.cn/f/14153299.html)
-
-、 [《中国文化史导论》](http://ishare.iask.sina.com.cn/f/12677180.html)5. **谢和耐： [《中国社会史》](http://ishare.iask.sina.com.cn/f/7898974.html)6. **吴思： [《隐蔽的秩序-拆解历史弈局》](http://ishare.iask.sina.com.cn/f/13636366.html)
-
-、 [《潜规则-中国历史中的真实游戏》](http://ishare.iask.sina.com.cn/f/8435518.html)
-
-、 [《血酬定律-中国历史上的生存游戏》](http://ishare.iask.sina.com.cn/f/5714725.html)7. **孙隆基： [《历史学家的经线》](http://ishare.iask.sina.com.cn/f/13453683.html)（二）中国近代史1. **徐中约： [《中国近代史》](http://ishare.iask.sina.com.cn/f/14264242.html)2. **史景迁： [《追寻现代中国全集》](http://u.115.com/file/dnhagkwb)
-
-、 [《天安门：知识分子与中国革命》](http://ishare.iask.sina.com.cn/f/10036722.html)3. **莫里斯·迈斯纳： [《毛的中国及其后》](http://ishare.iask.sina.com.cn/f/5717459.html)4. **杨奎松： [《中华人民共和国史研究》](http://ishare.iask.sina.com.cn/f/7969475.html)5. **杨奎松、沈志华、高华等： [《十卷本中华人民共和国史1949-1981》](http://ishare.iask.sina.com.cn/f/10599296.html)
-
-，香港中文大学出版社6. **秦晖： [《问题与主义》](http://ishare.iask.sina.com.cn/f/8107048.html)7. **朱学勤： [《书斋里的革命》](http://ishare.iask.sina.com.cn/f/10988712.html)8. **沈志华： [《朝鲜战争揭秘》](http://ishare.iask.sina.com.cn/f/11897625.html)9. **雷颐： [《被延误的现代化》](http://ishare.iask.sina.com.cn/f/13730361.html)10. **高华： [《红太阳是怎样升起的——延安整风运动的来龙去脉》](http://u.115.com/file/bhd1qk1i)11. **唐德刚： [《晚清七十年》](http://ishare.iask.sina.com.cn/f/17110898.html)
-
-、 [《袁氏当国》](http://ishare.iask.sina.com.cn/f/6815199.html)
-
-、[ 《胡适杂忆》](http://ishare.iask.sina.com.cn/f/6726569.html)
-
-等12. **徐友渔： [《1966：我们那一代的回忆》](http://ishare.iask.sina.com.cn/f/9844097.html)13. **丁抒： [《浩劫》](http://ishare.iask.sina.com.cn/f/6086598.html)
-
-、 [《人祸》](http://ishare.iask.sina.com.cn/f/6086585.html)14. **王友琴： [《文革受难者》](http://ishare.iask.sina.com.cn/f/8798859.html)15. **余习广： [《哭天：大跃进·苦日子重灾区典型调查》](http://ishare.iask.sina.com.cn/f/11075589.html)
-
-、 《擎起共和国圣火：右派囚徒与国策死刑犯之路》16. **杨显惠： [《夹边沟记事》](http://u.115.com/file/clqi14hm)17. **杨继绳：
-
-《中国改革年代的政治斗争》
-
-、 [《墓碑》](http://u.115.com/file/aq7pve4b)18. **特里尔： [《毛泽东传》](http://ishare.iask.sina.com.cn/f/9715597.html)**
+### （二）中国近代史
+1.徐中约： [《中国近代史》](http://ishare.iask.sina.com.cn/f/14264242.html)
+2.史景迁： [《追寻现代中国全集》](http://u.115.com/file/dnhagkwb)、 [《天安门：知识分子与中国革命》](http://ishare.iask.sina.com.cn/f/10036722.html)
+3.莫里斯·迈斯纳： [《毛的中国及其后》](http://ishare.iask.sina.com.cn/f/5717459.html)
+4.杨奎松： [《中华人民共和国史研究》](http://ishare.iask.sina.com.cn/f/7969475.html)
+5.杨奎松、沈志华、高华等： [《十卷本中华人民共和国史1949-1981》](http://ishare.iask.sina.com.cn/f/10599296.html)，香港中文大学出版社
+6.秦晖： [《问题与主义》](http://ishare.iask.sina.com.cn/f/8107048.html)
+7.朱学勤： [《书斋里的革命》](http://ishare.iask.sina.com.cn/f/10988712.html)
+8.沈志华： [《朝鲜战争揭秘》](http://ishare.iask.sina.com.cn/f/11897625.html)
+9.雷颐： [《被延误的现代化》](http://ishare.iask.sina.com.cn/f/13730361.html)
+10.高华： [《红太阳是怎样升起的——延安整风运动的来龙去脉》](http://u.115.com/file/bhd1qk1i)
+11.唐德刚： [《晚清七十年》](http://ishare.iask.sina.com.cn/f/17110898.html)、 [《袁氏当国》](http://ishare.iask.sina.com.cn/f/6815199.html)、[ 《胡适杂忆》](http://ishare.iask.sina.com.cn/f/6726569.html)等
+12.徐友渔： [《1966：我们那一代的回忆》](http://ishare.iask.sina.com.cn/f/9844097.html)
+13.丁抒： [《浩劫》](http://ishare.iask.sina.com.cn/f/6086598.html)、 [《人祸》](http://ishare.iask.sina.com.cn/f/6086585.html)
+14.王友琴： [《文革受难者》](http://ishare.iask.sina.com.cn/f/8798859.html)
+15.余习广： [《哭天：大跃进·苦日子重灾区典型调查》](http://ishare.iask.sina.com.cn/f/11075589.html)、 《擎起共和国圣火：右派囚徒与国策死刑犯之路》
+16.杨显惠： [《夹边沟记事》](http://u.115.com/file/clqi14hm)
+17.杨继绳：《中国改革年代的政治斗争》、 [《墓碑》](http://u.115.com/file/aq7pve4b)
+18.特里尔： [《毛泽东传》](http://ishare.iask.sina.com.cn/f/9715597.html)
 
 中国近代史是我个人最关注的一块，因为这一块为更多的谎言所充斥。“历史在哪里扭曲，就要在哪里突破”。过去是不可更改的存在，它的真或假跟你真的有那么大的关系么？当然有！它关系到你生活的这个国家能否以真实的历史为镜鉴，从而在一条更合理的道路上发展，它关系到该国国民能否获得一种正确的历史观，从而更有效地参与历史进程。
 
 中国自古便有用历史为政治宣传服务的传统，近代以来更是将这一点发挥到了极致。如果你想生活在真实中，首先要做的一点就是不读官方的历史书。故在这里，任何带有官方色彩的历史书都没有入选。
 
-**（三）世界史1. **斯塔夫里阿诺斯： [《全球通史》](http://ishare.iask.sina.com.cn/f/6015603.html)2. **菲利普·李·拉尔夫等： [《世界文明史》](http://ishare.iask.sina.com.cn/f/13046830.html)3. **帕尔默、科尔顿：
+### （三）世界史
+1.斯塔夫里阿诺斯： [《全球通史》](http://ishare.iask.sina.com.cn/f/6015603.html)
+2.菲利普·李·拉尔夫等： [《世界文明史》](http://ishare.iask.sina.com.cn/f/13046830.html)
+3.帕尔默、科尔顿：《近现代世界史》
+4.《新编剑桥世界近代史》
+5.威廉·麦克高希：《世界文明史：观察世界的新视角》
+6.保罗·约翰逊： [《现代-从1919年到2000年的世界》](http://ishare.iask.sina.com.cn/f/7693837.html)
+7.朱学勤： [《道德理想国的覆灭》](http://ishare.iask.sina.com.cn/f/7766354.html)
 
-《近现代世界史》4. **《新编剑桥世界近代史》5. **威廉·麦克高希：
+### （四）国别史
+1.[《剑桥插图德国史》](http://ishare.iask.sina.com.cn/f/10520250.html)、 [《剑桥插图大英帝国史》](http://ishare.iask.sina.com.cn/f/9251538.html)、 《剑桥插图法国史》、 《剑桥插图伊斯兰世界史》
+2.梅尼克： [《德国的浩劫》](http://ishare.iask.sina.com.cn/f/16234980.html)
+3.钱乘旦： [《英国通史》](http://ishare.iask.sina.com.cn/f/11355544.html)
+4.平森： [《德国近现代史》](http://ishare.iask.sina.com.cn/f/16644030.html)
+5.远山茂树等： [《日本近现代史》](http://ishare.iask.sina.com.cn/f/8895224.html)
+6.钱满素： [《美国文明》](http://ishare.iask.sina.com.cn/f/7240159.html)
+7.沈志华： [《一个大国的崛起与崩溃》](http://ishare.iask.sina.com.cn/f/15292602.html)、 [《中苏关系史纲》](http://ishare.iask.sina.com.cn/f/10794243.html)
 
-《世界文明史：观察世界的新视角》6. **保罗·约翰逊： [《现代-从1919年到2000年的世界》](http://ishare.iask.sina.com.cn/f/7693837.html)7. **朱学勤： [《道德理想国的覆灭》](http://ishare.iask.sina.com.cn/f/7766354.html)（四）国别史1. **[《剑桥插图德国史》](http://ishare.iask.sina.com.cn/f/10520250.html)
+### （五）历史哲学
+1.卡尔： [《历史是什么》](http://ishare.iask.sina.com.cn/f/15071610.html)
+2.汤因比等：《历史的对话》
+3.沃尔什： [《历史哲学导论》](http://ishare.iask.sina.com.cn/f/12060121.html)
+4.吕森： [《历史思考的新途径》](http://ishare.iask.sina.com.cn/f/9431620.html)
+5.巴勒克拉夫： [《当代史学主要趋势》](http://ishare.iask.sina.com.cn/f/5258769.html)
+6.埃尔顿： [《历史学的实践》](http://ishare.iask.sina.com.cn/f/5832292.html)
 
-**、 [《剑桥插图大英帝国史》](http://ishare.iask.sina.com.cn/f/9251538.html)
+### （六）重要历史档案
+1.张国焘：《我的回忆》
+2.弗拉基米洛夫： [《延安日记》](http://ishare.iask.sina.com.cn/f/9970090.html)
+3.李德： [《中国纪事》](http://ishare.iask.sina.com.cn/f/13963222.html)
+4.王明： [《中共50年》](http://u.115.com/file/bhd1kjhp)
 
-、 《剑桥插图法国史》
+---
 
-、 《剑桥插图伊斯兰世界史》2. **梅尼克： [《德国的浩劫》](http://ishare.iask.sina.com.cn/f/16234980.html)3. **钱乘旦： [《英国通史》](http://ishare.iask.sina.com.cn/f/11355544.html)4. **平森： [《德国近现代史》](http://ishare.iask.sina.com.cn/f/16644030.html)5. **远山茂树等： [《日本近现代史》](http://ishare.iask.sina.com.cn/f/8895224.html)6. **钱满素： [《美国文明》](http://ishare.iask.sina.com.cn/f/7240159.html)7. **沈志华： [《一个大国的崛起与崩溃》](http://ishare.iask.sina.com.cn/f/15292602.html)
-
-、 [《中苏关系史纲》](http://ishare.iask.sina.com.cn/f/10794243.html)（五）历史哲学1. **卡尔： [《历史是什么》](http://ishare.iask.sina.com.cn/f/15071610.html)2. **汤因比等：
-
-《历史的对话》3. **沃尔什： [《历史哲学导论》](http://ishare.iask.sina.com.cn/f/12060121.html)4. **吕森： [《历史思考的新途径》](http://ishare.iask.sina.com.cn/f/9431620.html)5. **巴勒克拉夫： [《当代史学主要趋势》](http://ishare.iask.sina.com.cn/f/5258769.html)6. **埃尔顿： [《历史学的实践》](http://ishare.iask.sina.com.cn/f/5832292.html)（六）重要历史档案1. **张国焘：
-
-《我的回忆》2. **弗拉基米洛夫： [《延安日记》](http://ishare.iask.sina.com.cn/f/9970090.html)3. **李德： [《中国纪事》](http://ishare.iask.sina.com.cn/f/13963222.html)4. **王明： [《中共50年》](http://u.115.com/file/bhd1kjhp)**
-
-（采稿：徐毅磊；责编：徐毅磊）
+> （采稿：徐毅磊；责编：徐毅磊）

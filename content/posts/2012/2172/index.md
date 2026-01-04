@@ -44,7 +44,7 @@ tags:
 
 草根论坛2012分为日场和夜场，日场分为嘉宾演讲与圆桌互动，夜场为通宵狂欢party。 [![p_large_E3jd_59c5000001951261](7eefe474-a2f1-49bd-b6aa-4da5648e55d6.jpg)](/?attachment_id=27610)
 
- [![p_large_yuBm_5aa0000002131263](a1291b16-1bc0-4576-b9fc-8beac14796ac.jpg)](/?attachment_id=27611)
+[![p_large_yuBm_5aa0000002131263](a1291b16-1bc0-4576-b9fc-8beac14796ac.jpg)](/?attachment_id=27611)
 
 **时间：**2012年12月23日
 

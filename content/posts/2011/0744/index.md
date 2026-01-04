@@ -71,7 +71,7 @@ tags:
 
 他们没有一起死，不过他们葬在了一起，在他父亲的故乡马里兰州。他的初恋姞内瓦还要多活四十年，亲眼见证菲兹杰拉德的死后哀荣水涨船高，《了不起的盖茨比》一版再版，被奉为美国经典文学，可她毕生都把当年的情书和日记锁在衣橱的角落里，从未想过站出来说：“我就是那个戴西。”高门巨族的操守，如是而已。
 
-----------------------------------------------
+---
 
 **注：** 1. 语出《了不起的盖茨比》第六章。 2. 英文原名为 Daisy Buchanan, Isabelle Borge, Rosalind Connage, Kismine Washington, Judy Jones, Minnie Bibble, Josephine Perry. 3. 语出《了不起的盖茨比》第七章。 4. 语出《了不起的盖茨比》第五章。 5. 语出《了不起的盖茨比》第三章。 6. 语出菲兹杰拉德散文“My Lost City”。 7. 1915年8月25日信。 8. 1915年1月31日信。 9. 语出《天堂的这一侧》第三章。 10. This Side of Paradise中文又译作《人间天堂》。 11. 原文: “It was an age of miracles, it was an age of art, it was an age of excess, and it was an age of satire.”
 

@@ -177,6 +177,6 @@ tags:
 
 做，这样的话，北斗的说服力和号召力会更广泛一点儿。
 
- [凤凰网新闻链接 ](http://news.ifeng.com/gundong/detail_2011_08/02/8112464_0.shtml) [何谓间隔年](http://baike.baidu.com/view/1637881.htm) [周菁的人人主页](http://anita-429jing.renren.com/) [安芯（周菁）的新浪博客](http://blog.sina.com.cn/jing0429anita) [安芯的间隔年小店](http://shop68035732.taobao.com/) [豆瓣的间隔年小站](http://site.douban.com/106941/) [间隔年论坛](http://www.freegapper.com/)
+[凤凰网新闻链接 ](http://news.ifeng.com/gundong/detail_2011_08/02/8112464_0.shtml) [何谓间隔年](http://baike.baidu.com/view/1637881.htm) [周菁的人人主页](http://anita-429jing.renren.com/) [安芯（周菁）的新浪博客](http://blog.sina.com.cn/jing0429anita) [安芯的间隔年小店](http://shop68035732.taobao.com/) [豆瓣的间隔年小站](http://site.douban.com/106941/) [间隔年论坛](http://www.freegapper.com/)
 
 （访谈人：孙微阳；责编：孙微阳）**

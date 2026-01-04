@@ -51,9 +51,7 @@ tags:
 
 **I went to the woods because I wanted to live deliberately. I wanted to live deep and suck out all the marrow of life.To put to rout all that was not life, and not, when I had come to die, discover that I had not lived. ---- Thoreau
 
-(我步入丛林／因为我希望生活得有意义／我希望活得深刻／吸取生命中所有的精华／把非生命的一切都击溃／以免当我生命终结／发现自己从没有活过
-
-----梭罗)
+> (我步入丛林／因为我希望生活得有意义／我希望活得深刻／吸取生命中所有的精华／把非生命的一切都击溃／以免当我生命终结／发现自己从没有活过——梭罗)
 
 P.S 要感谢北斗，如果不是北斗也不会有这一封信。生而不易，愿同摘星。热爱生活，厚待生命。
 
@@ -65,4 +63,4 @@ P.S 要感谢北斗，如果不是北斗也不会有这一封信。生而不易�
 
 ---
 
-> （采编：佛冉，责编：佛冉)
+> （采编：佛冉，责编：佛冉）

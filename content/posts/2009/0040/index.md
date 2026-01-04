@@ -51,4 +51,4 @@ tags:
 
 **【相关阅读】** [“祈福晓鸥”网站](http://www.blessxiaoou.net/)
 
- [“小鸥加油”的博客](http://blog.sina.com.cn/blessxiaoou)
+[“小鸥加油”的博客](http://blog.sina.com.cn/blessxiaoou)

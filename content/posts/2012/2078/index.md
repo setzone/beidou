@@ -85,7 +85,7 @@ tags:
 
 ### 【深入阅读】
 
- [百年香港律师业(上篇)](http://www.yufenglaw.net/in_new.asp?id=840) [香港三代律师看香港律师业](http://wenku.baidu.com/view/00e1a13667ec102de2bd89c4.html) [香港律师与大陆律师制度之比较](http://blog.tianya.cn/blogger/post_read.asp?BlogID=3731698&PostID=37452746) [香港律师制度](http://blog.sina.com.cn/s/blog_4cbdb1a001000d6r.html) [《香港律师制度》
+[百年香港律师业(上篇)](http://www.yufenglaw.net/in_new.asp?id=840) [香港三代律师看香港律师业](http://wenku.baidu.com/view/00e1a13667ec102de2bd89c4.html) [香港律师与大陆律师制度之比较](http://blog.tianya.cn/blogger/post_read.asp?BlogID=3731698&PostID=37452746) [香港律师制度](http://blog.sina.com.cn/s/blog_4cbdb1a001000d6r.html) [《香港律师制度》
 
 中国人民大学
 

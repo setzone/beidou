@@ -194,6 +194,6 @@ tags:
 
 附：《太陽花盛開時，我在北京》
 
- http://blog.udn.com/alain7075/12613553
+http://blog.udn.com/alain7075/12613553
 
 （採編：余澤霖；責編：葉璐蓓）

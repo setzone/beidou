@@ -24,7 +24,7 @@ tags:
 
 当然，书单难免带有很强的个人色彩。例如，我最近一年多痴迷进化生物学，书单中好几本书都或多或少与进化生物学有关系。
 
- [1、协和医事](http://ishare.iask.sina.com.cn/f/12209449.html)
+[1、协和医事](http://ishare.iask.sina.com.cn/f/12209449.html)
 
 作者：讴歌
 
