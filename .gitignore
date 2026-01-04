@@ -17,3 +17,5 @@ hugo.linux
 
 trash*
 temp/
+
+.vscode/
